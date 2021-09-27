@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Hello this is my title"
+date: 2017-09-08
+
+---
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/cedadev/archive-site/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
