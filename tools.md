@@ -1,6 +1,7 @@
 ---
 title: Tools
 layout: base_ceda
+permalink: /tools/
 ---
 
 ## General Download Services
