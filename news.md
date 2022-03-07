@@ -1,5 +1,5 @@
 ---
-layout: section_news
+layout: base_ceda
 title: News
 permalink: /news/
 ---
