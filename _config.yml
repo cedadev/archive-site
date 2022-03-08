@@ -20,3 +20,4 @@ collections_dir: collections
 use_cacheBust: true
 
 destination: docs
+

@@ -1,7 +1,7 @@
 <div class="navbar navbar-expand-lg fixed-top navbar-dark bg-primary">
     <div class="container">
 
-        <a href="{{ site.url }}" class="navbar-brand">
+        <a href="{{ site.url }}{{ site.baseurl }}" class="navbar-brand">
             <img src="https://artefacts.ceda.ac.uk/themes/orgtheme_ceda_serv/0.2/_assets/img/ceda_archive_logo_transp_white_3_h80.png"
                 alt="CEDA logo">
         </a>
@@ -18,29 +18,13 @@
                 {% for link in links %}
                 {% if page.url contains link.url %}{% assign class = 'active' %}{% else %}{% assign class = nil %}{%
                 endif %}
-                {% if link.sublinks %}
-                <li class="nav-item dropdown {{ class }}">
-                    <a href="{{ site.url }}{{ site.baseurl }}{{ link.url }}" class="nav-link dropdown-toggle"
-                        data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ link.title }}
-                        <span class="caret"></span></a>
-                    <div class="dropdown-menu">
-                        {% for sublink in link.sublinks %}
-                        {% if sublink.title == 'separator' %}
-                        <div class="dropdown-divider"></div>
-                        {% else %}
 
-                        <a class="dropdown-item" href="{{ site.url }}{{ site.baseurl }}{{ sublink.url }}">{{
-                            sublink.title }}</a>
+                {% if link.url contains '://' %}{% else %}
+                {% assign linkurl = site.url | append: site.baseurl | append: link.url %}{% endif %}
 
-                        {% endif %}
-                        {% endfor %}
-                    </div>
-                </li>
-                {% else %}
                 <li class="nav-item {{ class }}">
-                    <a class="nav-link" href="{{ link.url }}">{{ link.title }}</a>
+                    <a class="nav-link" href="{{ linkurl }}">{{ link.title }}</a>
                 </li>
-                {% endif %}
                 {% endfor %}
 
             </ul>
