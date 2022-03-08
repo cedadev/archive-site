@@ -19,7 +19,7 @@
                 {% if page.url contains link.url %}{% assign class = 'active' %}{% else %}{% assign class = nil %}{%
                 endif %}
 
-                {% if link.url contains '://' %}{% else %}
+                {% if link.url contains '://' %}{% assign linkurl = link.url %}{% else %}
                 {% assign linkurl = site.url | append: site.baseurl | append: link.url %}{% endif %}
 
                 <li class="nav-item {{ class }}">
