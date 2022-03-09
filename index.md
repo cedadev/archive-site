@@ -16,7 +16,7 @@ list_title: Posts
 
 <div class="card-deck">
     <div class="card text-center" style="width: 18rem;">
-        <img class="card-img-top" src="{{site.baseurl}}/static/home-cropped-noaa-ujsujr3cgem-unsplash_(3).jpg" alt="Card image cap">
+        <img class="card-img-top" src="{{site.baseurl}}/static/home-cropped-noaa-ujsujr3cgem-unsplash.jpg" alt="Card image cap">
         <div class="card-body">
             <h5 class="card-title">Expertise in environmental data curation</h5>
             <p class="card-text"></p>
@@ -74,11 +74,3 @@ list_title: Posts
 
 </div>
 
-
-
-
-
-<<<<<<< HEAD
-# Hi there.
-=======
->>>>>>> clean
