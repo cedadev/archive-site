@@ -6,7 +6,6 @@ permalink: /tools/
 
 ## General Download Services
 
-
  - **[OPeNDAP](https://data.ceda.ac.uk)** - Can be used for browsing the archive file system and interactive downloads. It's also a <a href="https://help.ceda.ac.uk/article/4431-ceda-archive-web-download-and-services">scriptable interface</a> (API) to the archive over http, allowing remote subsetting within IDL, Matlab. Python etc.
  - <strong><a>FTP</a>&nbsp; -&nbsp;</strong>The <a href="https://help.ceda.ac.uk/article/280-ftp">File Transfer Protocol</a> is very common and is a good interface if you need to automate your&nbsp;data downloads.
  - <strong>JASMIN file system -&nbsp;</strong><em>JAMSIN users should consult the JASMIN documentation on direct&nbsp;</em><a href="https://help.jasmin.ac.uk/article/3838-ceda-archive">CEDA Archive access&nbsp;</a><em>and appropriate&nbsp;</em><a href="https://help.ceda.ac.uk/category/217-data-transfer">data transfer mechanisms</a>
