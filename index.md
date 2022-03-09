@@ -47,7 +47,7 @@ list_title: Posts
         
             <div class="card text-center" style="width: 18rem;">
                 <div class="card-body">
-                    <h4 class="card-title"><a class="inherit-color" href="/about/">About</a></h4>
+                    <h4 class="card-title"><a class="inherit-color" href="/about.html">About</a></h4>
             <p class="card-text"><p><span>Find out more about the role of the CEDA Archive</span></p></p>
             <a href="/about/" class="btn btn-default">Learn More</a>
                 </div>
@@ -55,7 +55,7 @@ list_title: Posts
         
             <div class="card text-center" style="width: 18rem;">
                 <div class="card-body">
-                    <h4 class="card-title"><a class="inherit-color" href="/about/accessing-data/">Accessing data</a></h4>
+                    <h4 class="card-title"><a class="inherit-color" href="/getting_started.html">Accessing data</a></h4>
             <p class="card-text"><p><span>We hold environmental data related to atmospheric and earth observation fields.&nbsp;</span></p></p>
             <a href="/about/accessing-data/" class="btn btn-default">Learn More</a>
                 </div>

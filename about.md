@@ -1,4 +1,7 @@
-
+---
+title: About the CEDA Archive
+layout: default
+---
 # What is the CEDA Archive
 Its the UK's national data centre for atmospheric and earth observation research data. It stores, catalogues and distributes over 18 Petabytes of data.  The aim of the CEDA Archive is to provide a long-term home for data produced by environmental research and to facilitate use of data that research needs.
 
