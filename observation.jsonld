@@ -90,8 +90,7 @@
         "publicationDate": "ds:datePublished",
         "publicationStatus": "ds:creativeWorkStatus",
         "DOIPublicationDate": "ds:datePublished",
-        "removedDate":            {
-            "@label": "removedDate",
+        "removedDate":  {
             "@type": "xsd:date"},
         "latestDateUpdate":             {
             "@id": "http://schema.org/birthDate",
