@@ -1,0 +1,63 @@
+{
+    "@context":
+      {
+         "Person": "http://xmlns.com/foaf/0.1/Person",
+         "xsd": "http://www.w3.org/2001/XMLSchema#",
+         "ds": "https://schema.org/Dataset",
+  
+  
+        "title": "Person:fffff",
+         "abstract": "ds:abstract",
+         "keywords": "Person:fffff",
+        "vocabKeywords": "ds:keywords",
+        "dataStatus": "ds:creativeWorkStatus",
+        "publicationDate": "ds:datePublished",
+        "publicationStatus": "ds:creativeWorkStatus",
+        "DOIPublicationDate": "ds:datePublished",
+        "removedDate": "ds:datePublished",
+        "latestDateUpdate": "ds:x",
+        "dataUpdateFrequency": "ds:x",
+        "permissions": "ds:x",
+        "image": "ds:x",
+        "exports": "ds:x",
+        "resultPath": "ds:x",
+        "StoredExternal": "ds:x",
+        "numberOfFiles": "ds:x",
+        "volume": "https://schema.org/fileSize",
+        "format": "https://schema.org/fileFormat",
+        "curationCategory": "ds:x",
+        "quality": "ds:x",
+        "validDate": "ds:x",
+        "temporalExtentStart": "ds:x",
+        "temporalExtentEnd": "ds:x",
+        "NonGeographicFlag": "ds:x",
+        "geographicExtent": "ds:x",
+        "horizontalResolution": "ds:x",
+        "verticalExtent": "ds:x",
+        "lineage": "ds:x",
+        "removalReason": "ds:x",
+        "procedure": "ds:x",
+        "identifiers": "ds:x",
+        "authors": "ds:author",
+        "metadataOwners": "ds:x",
+        "custodians": "ds:x",
+        "CEDAOfficer": {"@id": "Person", "@type":"@id"},
+        "publisher": "ds:x",
+        "pointOfContact": "ds:x",
+        "distributer": "ds:x",
+        "funder": "https://schema.org/funder",
+        "project": {"@id": "https://schema.org/Grant", "@type":"Person"},
+        "onlineResources": "ds:xxx"
+
+
+
+
+  
+      },
+    "title": "sam",
+  "numberOfFiles": 9,
+  "removedDate": "2007-02-04",
+  "funder": "NERC",
+  "project": "xxx",
+  "CEDAOfficer": "sam"
+  }
