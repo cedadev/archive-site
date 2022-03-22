@@ -3,9 +3,25 @@
       {
          "Person": "http://xmlns.com/foaf/0.1/Person",
          "xsd": "http://www.w3.org/2001/XMLSchema#",
-         "ds": "https://schema.org/Dataset",
-  
-  
+         "ds": "https://schema.org/Dataset"
+      },
+
+      "@graph": [
+        {
+          "@id": "schema:spouse",
+          "@type": "rdf:Property",
+          "rdfs:comment": "The person's spouse.",
+          "rdfs:label": "spouse",
+          "schema:domainIncludes": {
+            "@id": "schema:Person"
+          },
+          "schema:rangeIncludes": {
+            "@id": "schema:Person"
+          }
+        },
+
+        {
+            
         "title": "Person:fffff",
          "abstract": "ds:abstract",
          "keywords": "Person:fffff",
@@ -48,16 +64,8 @@
         "funder": "https://schema.org/funder",
         "project": {"@id": "https://schema.org/Grant", "@type":"Person"},
         "onlineResources": "ds:xxx"
+        }
 
 
-
-
-  
-      },
-    "title": "sam",
-  "numberOfFiles": 9,
-  "removedDate": "2007-02-04",
-  "funder": "NERC",
-  "project": "xxx",
-  "CEDAOfficer": "sam"
+    ]
   }
