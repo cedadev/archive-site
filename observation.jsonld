@@ -91,9 +91,11 @@
         "publicationStatus": "ds:creativeWorkStatus",
         "DOIPublicationDate": "ds:datePublished",
         "removedDate":            {
+            "@label": "removedDate",
+            "@type": "xsd:date"},
+        "latestDateUpdate":             {
             "@id": "http://schema.org/birthDate",
             "@type": "xsd:date"},
-        "latestDateUpdate": "ds:x",
         "dataUpdateFrequency": "ds:x",
         "permissions": "ds:x",
         "image": "ds:x",
