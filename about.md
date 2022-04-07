@@ -15,7 +15,7 @@ The CEDA Archive is run by The Centre for Environmental Data Analysis (CEDA). CE
 The CEDA Archive forms part of NERC's Environmental Data Service (EDS) - a network of data centres covering all aspects of environmental science. The EDS provides a focal point for NERC's scientific data and information. We work with the other data centres to ensure that environmental data is deposited in the most appropriate archive.
 
 # Who pays for the CEDA Archive
-ccccThe Natural Environment Research Council ([NERC](https://nerc.ukri.org/)). More specificly, the National Centre for Atmospheric Science ([NCAS](https://ncas.ac.uk/)) and the National Centre for Earth Observation ([NCEO](https://www.nceo.ac.uk/)) are the two NERC centres that fund the core EDS service. This is suplimented by contributions from NERC science budgets.
+The Natural Environment Research Council ([NERC](https://nerc.ukri.org/)). More specificly, the National Centre for Atmospheric Science ([NCAS](https://ncas.ac.uk/)) and the National Centre for Earth Observation ([NCEO](https://www.nceo.ac.uk/)) are the two NERC centres that fund the core EDS service. This is suplimented by contributions from NERC science budgets.
 
 <a href="http://www.nceo.ac.uk" title="STFC"><img
         src="https://artefacts.ceda.ac.uk/themes/orgtheme_ceda_serv/0.2/_assets/img/nceologo200.png"
@@ -31,4 +31,4 @@ $ more file1.dat
 ---
 {: .bash}
 
-Hello
+Hello there!
