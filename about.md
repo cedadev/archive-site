@@ -26,9 +26,9 @@ The Natural Environment Research Council ([NERC](https://nerc.ukri.org/)). More 
         title="NCAS logo" alt="NCAS logo"></a>
 
 
----
+~~~
 $ more file1.dat
----
+~~~
 {: .bash}
 
 Hello there!
