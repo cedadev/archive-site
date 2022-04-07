@@ -9,3 +9,5 @@ plugins:
 
 destination: docs
 
+# Turn on built-in syntax highlighting.
+highlighter: rouge
