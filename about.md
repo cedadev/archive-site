@@ -31,4 +31,17 @@ $ more file1.dat
 ~~~
 {: .bash}
 
+
+~~~
+import os
+
+x = "ffff"
+y = 300
+
+print(x, y)
+
+def funfunc(aaa):
+    print(aaa)
+~~~
+{: .python}
 Hello there!
