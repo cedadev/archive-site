@@ -29,6 +29,6 @@ ccccThe Natural Environment Research Council ([NERC](https://nerc.ukri.org/)). M
 ---
 $ more file1.dat
 ---
-{:.bash}
+{: .bash}
 
 Hello
