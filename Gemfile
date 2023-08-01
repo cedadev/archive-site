@@ -10,3 +10,4 @@ gem "jekyll"
 gem "kramdown-parser-gfm"
 gem "webrick"
 gem 'jekyll-feed'
+gem 'public_suffix', '5.0.3'

@@ -3,45 +3,67 @@ title: About the CEDA Archive
 layout: base_ceda
 permalink: /about/
 ---
-# What is the CEDA Archive
-Its the UK's national data centre for atmospheric and earth observation research data. It stores, catalogues and distributes over 18 Petabytes of data.  The aim of the CEDA Archive is to provide a long-term home for data produced by environmental research and to facilitate use of data that research needs.
 
-# Who runs the CEDA Archive?
-The CEDA Archive is run by The Centre for Environmental Data Analysis (CEDA). CEDA also run the JASMIN super-data-cluster which provides the storage and compute infrasructure for the archive. 
+<ol class="breadcrumb">
+<li class="breadcrumb-item" id="breadcrumb-menu-home">
+<a href="/">Home</a>
+</li>
+<li class="breadcrumb-item" id="breadcrumb-menu-about">About
+</li>
 
-[CEDA](https://www.ceda.ac.uk/) ia a division of RAL Space, which is a department in STFC. STFC is one of the UKRI Research Councils.
+</ol>
+The [Centre for Environmental Data Analysis](https://www.ceda.ac.uk/) (CEDA) runs the UK's national data centre for atmospheric and earth observation research, hosting over 18 Petabytes of data.
 
-# The broader picture
-The CEDA Archive forms part of NERC's Environmental Data Service (EDS) - a network of data centres covering all aspects of environmental science. The EDS provides a focal point for NERC's scientific data and information. We work with the other data centres to ensure that environmental data is deposited in the most appropriate archive.
+The CEDA Archive forms part of [NERC's Environmental Data Service (EDS)](https://eds.ukri.org/) - a network of data centres covering all aspects of environmental science. The EDS provides a focal point for NERC's scientific data and information. We work with the other data centres to ensure that environmental data is deposited in the most appropriate archive.
 
-# Who pays for the CEDA Archive
-The Natural Environment Research Council ([NERC](https://nerc.ukri.org/)). More specificly, the National Centre for Atmospheric Science ([NCAS](https://ncas.ac.uk/)) and the National Centre for Earth Observation ([NCEO](https://www.nceo.ac.uk/)) are the two NERC centres that fund the core EDS service. This is suplimented by contributions from NERC science budgets.
+The aim of the CEDA Archive is to provide a long-term home for data produced by environmental research and to facilitate use of data that research needs.
 
-<a href="http://www.nceo.ac.uk" title="STFC"><img
-        src="https://artefacts.ceda.ac.uk/themes/orgtheme_ceda_serv/0.2/_assets/img/nceologo200.png"
-        title="NCEO logo" alt="NCEO logo"></a>
+<div class="card-deck">
 
-<a href="http://www.ncas.ac.uk" title="NCAS"><img
-        src="https://artefacts.ceda.ac.uk/themes/orgtheme_ceda_serv/0.2/_assets/img/ncas_logo_transparent_blacktext.png"
-        title="NCAS logo" alt="NCAS logo"></a>
+        <div class="col-4">
 
+            <div class="card text-center">
+                <div class="card-header">
 
-~~~
-$ more file1.dat
-~~~
-{: .bash}
+                            <span class="fa-stack fa-5x">
+                                <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                                <i class="fa fa-download fa-stack-1x fa-inverse"></i>
+                            </span>
 
 
-~~~
-import os
+                </div>
+                <div class="card-body">
+                    <h4 class="card-title"><a class="inherit-color" href="/about/accessing-data/">Accessing data</a></h4>
+                    <p class="card-text"></p>
+                    <a href="/about/accessing-data/" class="btn btn-default">Learn More</a>
+                </div>
+            </div>
 
-x = "ffff"
-y = 300
+        </div>
 
-print(x, y)
+</div>
 
-def funfunc(aaa):
-    print(aaa)
-~~~
-{: .python}
-Hello there!
+<div class="card-deck">
+
+        <div class="col-4">
+
+            <div class="card text-center" style="width: 18rem;">
+                <div class="card-header">
+
+                            <span class="fa-stack fa-5x">
+                                <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                                <i class="fa fa-upload fa-stack-1x fa-inverse"></i>
+                            </span>
+
+
+                </div>
+                <div class="card-body">
+                    <h4 class="card-title"><a class="inherit-color" href="/about/depositing-data/">Depositing data</a></h4>
+                    <p class="card-text"></p>
+                    <a href="/about/depositing-data/" class="btn btn-default">Learn More</a>
+                </div>
+            </div>
+
+        </div>
+
+</div>
