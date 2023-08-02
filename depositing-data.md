@@ -38,14 +38,14 @@ permalink: about/depositing-data/
     </div>
 <br>
 <div class="row">
-        <p>
-            <a href="https://www.ceda.ac.uk/about/team/"><span>Our team</span></a>
+<p>
+<a href="https://www.ceda.ac.uk/about/team/"><span>Our team</span></a>
             
-            <span> provides advice and guidance to researchers on best practice for data management. We ensure that the data researchers produce are curated appropriately for the long-term, guaranteeing their security, accessibility and re-usability for the wider community.</span></p>
+<span> provides advice and guidance to researchers on best practice for data management. We ensure that the data researchers produce are curated appropriately for the long-term, guaranteeing their security, accessibility and re-usability for the wider community.</span></p>
 
-            <p>We accept environmental data in suitable <a href="https://help.ceda.ac.uk/category/4423-formats">standard data formats</a>. Priority is given to data generated as a result of funding by the <a href="https://nerc.ukri.org/">Natural Environment Research Council (NERC)</a>, however, data generated through other funding sources will also be considered for deposit at the discretion of the CEDA Archive.</p>
+<p>We accept environmental data in suitable <a href="https://help.ceda.ac.uk/category/4423-formats">standard data formats</a>. Priority is given to data generated as a result of funding by the <a href="https://nerc.ukri.org/">Natural Environment Research Council (NERC)</a>, however, data generated through other funding sources will also be considered for deposit at the discretion of the CEDA Archive.</p>
 
-            <p><span>If you wish to deposit data with us, please see the </span><a href="https://help.ceda.ac.uk/category/13-archiving-data-with-ceda"><span>documentation here</span></a><span>.&nbsp;</span><span>If you have any questions about depositing data, please contact our </span><a href="mailto:data.management@ceda.ac.uk"><span>Data Management helpdesk</span></a><span>.</span></p>
+<p><span>If you wish to deposit data with us, please see the </span><a href="https://help.ceda.ac.uk/category/13-archiving-data-with-ceda"><span>documentation here</span></a><span>.&nbsp;</span><span>If you have any questions about depositing data, please contact our </span><a href="mailto:data.management@ceda.ac.uk"><span>Data Management helpdesk</span></a><span>.</span></p>
         
 </div>
 </div>
