@@ -90,17 +90,3 @@ permalink: midas_stations/traditional_counties_map/
 
 
 
-                
-            </div>
-        </div>
-    
-
-    
-    	
-    	
-    
-
-
-
-
-    </div>
