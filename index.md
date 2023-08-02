@@ -51,7 +51,7 @@ list_title: Posts
         
             <div class="card text-center" style="width: 18rem;">
                         <div class="card-header">
-                            <span class="fa-stack fa-5x">
+                            <span class="fa-stack fa-4x">
                                 <i class="fa fa-circle fa-stack-2x text-primary"></i>
                                 <i class="fa fa-info-circle fa-stack-1x fa-inverse"></i>
                             </span>

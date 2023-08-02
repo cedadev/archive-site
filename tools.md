@@ -30,6 +30,6 @@ permalink: /tools/
 
 When producing data you can use these tools to work out it's formated correctly.
 
- - [CSV checker](/cgi-bin/badccsv/csvchecker)
+ - [CSV checker](https://archive2.ceda.ac.uk//cgi-bin/badccsv/csvchecker)
  - [NASA-Ames checker](/nachecker)
 

@@ -33,10 +33,10 @@ permalink: /midas_stations
         <label for="content-0ea73316-5ef1-434a-8584-1bbeb6c22c54">Content:</label><br><textarea name="content" class="mceEditor charfield" rows="10" id="content-0ea73316-5ef1-434a-8584-1bbeb6c22c54" cols="40">&lt;h1&gt;Search for Met Office MIDAS stations&lt;/h1&gt;
 &lt;h3&gt;Maps&lt;/h3&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="/cgi-bin/midas_stations/midas_googlemap.cgi"&gt;View stations on interactive map&lt;/a&gt; &amp;nbsp; &amp;nbsp; Also available as a &lt;a href="google_earth"&gt;Google Earth&lt;/a&gt; download.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://archive2.ceda.ac.uk/cgi-bin/midas_stations/midas_googlemap.cgi"&gt;View stations on interactive map&lt;/a&gt; &amp;nbsp; &amp;nbsp; Also available as a &lt;a href="google_earth"&gt;Google Earth&lt;/a&gt; download.&lt;/p&gt;
 &lt;h3&gt;Search for station name&lt;/h3&gt;
 &lt;p&gt;Finds all station names contain the given string. The string is matched anywhere within the station name and is not case sensitive.&lt;/p&gt;
-&lt;form action="/cgi-bin/midas_stations/search_by_name.cgi.py"&gt;
+&lt;form action="https://archive2.ceda.ac.uk/cgi-bin/midas_stations/search_by_name.cgi.py"&gt;
 &lt;table class="table"&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
@@ -51,7 +51,7 @@ Open within year range: &lt;input maxlength="4" name="minyear" size="4" type="te
 &lt;/form&gt;
 &lt;h3&gt;Search for stations by postcode&lt;/h3&gt;
 &lt;p&gt;Finds all stations with postcodes starting with the given string. Enter up to 5 significant characters. For example, "OX", "OX11" or "OX11 5"). Most stations do not have the full postcode recorded, so adding more characters is unlikely to return any matches. See &lt;a href="https://en.wikipedia.org/wiki/File:British_postcode_areas_map.svg"&gt;Postcode area map&lt;/a&gt; or &lt;a href="http://en.wikipedia.org/wiki/List_of_postal_areas_in_the_United_Kingdom"&gt;List of postal areas&lt;/a&gt; for more information on postcodes.&lt;/p&gt;
-&lt;form action="/cgi-bin/midas_stations/search_by_postcode.cgi.py"&gt;
+&lt;form action="https://archive2.ceda.ac.uk/cgi-bin/midas_stations/search_by_postcode.cgi.py"&gt;
 &lt;table class="table"&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
@@ -66,7 +66,7 @@ Open within year range: &lt;input maxlength="4" name="minyear" size="4" type="te
 &lt;/form&gt;
 &lt;h3&gt;Search for stations by UK county&lt;/h3&gt;
 &lt;p&gt;Select a county to display all stations with that county. Please note that the county names are the names used by the Met Office and may not reflect the current county divisions within the UK. &lt;a href="traditional_counties_map"&gt;Map of traditional counties&lt;/a&gt;&lt;/p&gt;
-&lt;form action="/cgi-bin/midas_stations/search_by_county.cgi.py"&gt;
+&lt;form action="https://archive2.ceda.ac.uk/cgi-bin/midas_stations/search_by_county.cgi.py"&gt;
 &lt;table class="table"&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
@@ -258,7 +258,7 @@ Open within year range: &lt;input maxlength="4" name="minyear" size="4" type="te
 &lt;/form&gt;
 &lt;h3&gt;Display station details&lt;/h3&gt;
 &lt;p&gt;To display details for one or more stations, enter the station source ID (src_id) values in the box below. Use spaces or commas to separate multiple values.&lt;/p&gt;
-&lt;form action="/cgi-bin/midas_stations/station_details.cgi.py"&gt;
+&lt;form action="https://archive2.ceda.ac.uk/cgi-bin/midas_stations/station_details.cgi.py"&gt;
 &lt;table class="table"&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
@@ -298,10 +298,10 @@ Open within year range: &lt;input maxlength="4" name="minyear" size="4" type="te
 <h1>Search for Met Office MIDAS stations</h1>
 <h3>Maps</h3>
 <p></p>
-<p><a href="/cgi-bin/midas_stations/midas_googlemap.cgi">View stations on interactive map</a> &nbsp; &nbsp; Also available as a <a href="google_earth.html">Google Earth</a> download.</p>
+<p><a href="https://archive2.ceda.ac.uk/cgi-bin/midas_stations/midas_googlemap.cgi">View stations on interactive map</a> &nbsp; &nbsp; Also available as a <a href="google_earth.html">Google Earth</a> download.</p>
 <h3>Search for station name</h3>
 <p>Finds all station names contain the given string. The string is matched anywhere within the station name and is not case sensitive.</p>
-<form action="/cgi-bin/midas_stations/search_by_name.cgi.py">
+<form action="https://archive2.ceda.ac.uk/cgi-bin/midas_stations/search_by_name.cgi.py">
 <table class="table">
 <tbody>
 <tr>
@@ -316,7 +316,7 @@ Open within year range: <input maxlength="4" name="minyear" size="4" type="text"
 </form>
 <h3>Search for stations by postcode</h3>
 <p>Finds all stations with postcodes starting with the given string. Enter up to 5 significant characters. For example, "OX", "OX11" or "OX11 5"). Most stations do not have the full postcode recorded, so adding more characters is unlikely to return any matches. See <a href="https://en.wikipedia.org/wiki/File:British_postcode_areas_map.svg">Postcode area map</a> or <a href="http://en.wikipedia.org/wiki/List_of_postal_areas_in_the_United_Kingdom">List of postal areas</a> for more information on postcodes.</p>
-<form action="/cgi-bin/midas_stations/search_by_postcode.cgi.py">
+<form action="https://archive2.ceda.ac.uk/cgi-bin/midas_stations/search_by_postcode.cgi.py">
 <table class="table">
 <tbody>
 <tr>
@@ -331,7 +331,7 @@ Open within year range: <input maxlength="4" name="minyear" size="4" type="text"
 </form>
 <h3>Search for stations by UK county</h3>
 <p>Select a county to display all stations with that county. Please note that the county names are the names used by the Met Office and may not reflect the current county divisions within the UK. <a href="traditional_counties_map">Map of traditional counties</a></p>
-<form action="/cgi-bin/midas_stations/search_by_county.cgi.py">
+<form action="https://archive2.ceda.ac.uk/cgi-bin/midas_stations/search_by_county.cgi.py">
 <table class="table">
 <tbody>
 <tr>
