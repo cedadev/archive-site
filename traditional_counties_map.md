@@ -40,11 +40,7 @@ permalink: midas_stations/traditional_counties_map/
     <input type="hidden" name="csrfmiddlewaretoken" value="SiEynXbyDvmaJyd1iSu6OyYeU3c6LFkxwf5L4r5V1jiIDRwfX9XGBW1mbUn8Id4N">
     
 <p>
-<label for="content-39a56629-c98b-4f5d-95fb-9e02b7841ff8">Content:</label><br><textarea name="content" class="mceEditor charfield" rows="10" id="content-39a56629-c98b-4f5d-95fb-9e02b7841ff8" cols="40">&lt;p&gt;Map of traditional counties of Great Britain&lt;/p&gt;
-&lt;h1&gt;Map of traditional counties of Great Britain&lt;/h1&gt;
-&lt;p&gt;&lt;em&gt;Please note that the county names used in the MIDAS stations catalogue may not necessarily be consistent with the names on this map.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Map of traditional counties of Great Britain" height="1264" src="/static/media/uploads/traditional_counties_map.gif" width="797"&gt;&lt;img src="traditional_counties_map.gif"&gt;&lt;/p&gt;
-&lt;center&gt;Map courtesy of the &lt;a href="http://www.abcounties.co.uk"&gt;Association of British Counties&lt;/a&gt;&lt;/center&gt;</textarea>
+<label for="content-39a56629-c98b-4f5d-95fb-9e02b7841ff8">Content:</label><br>
         
 </p>
     
