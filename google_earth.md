@@ -5,9 +5,9 @@ permalink: midas_stations/google_earth
 
 <div class="container">
 
-        <ol class="breadcrumb">
-        <li class="breadcrumb-item" id="breadcrumb-menu-home"><a href="/">Home</a></li><li class="breadcrumb-item" id="breadcrumb-menu-midas_stations-google_earth">Met Office Surface stations on Google Earth</li>
-        </ol>
+<ol class="breadcrumb">
+<li class="breadcrumb-item" id="breadcrumb-menu-home"><a href="/">Home</a></li><li class="breadcrumb-item" id="breadcrumb-menu-midas_stations-google_earth">Met Office Surface stations on Google Earth</li>
+</ol>
 
 
 
@@ -21,16 +21,16 @@ permalink: midas_stations/google_earth
 
 
 
-        <div class="row">
-            <div class="col-md-12">
+<div class="row">
+<div class="col-md-12">
 
 
 
 <form style="display:none;" class="editable-form" method="post" action="/edit/" id="45124fa4-fa60-41fe-b514-9e772662f29d">
     <input type="hidden" name="csrfmiddlewaretoken" value="PVOJvgftpSpRVKKcYjNumxhQFsRJzCXutSfWcK9QNGlpP33qDAg49VkYWj2LwaHK">
     
-    <p>
-        <label for="content-45124fa4-fa60-41fe-b514-9e772662f29d">Content:</label><br><textarea name="content" class="mceEditor charfield" rows="10" id="content-45124fa4-fa60-41fe-b514-9e772662f29d" cols="40">&lt;p&gt;&lt;span&gt;The&amp;nbsp;&lt;/span&gt;&lt;a href="http://earth.google.com/"&gt;Google Earth&lt;/a&gt;&lt;span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;application provides you with an interactive map of the whole world that you can navigate and zoom in on using your mouse. CEDA has made the locations of Met Office MIDAS observation stations available as files that you can load into&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;em&gt;Google Earth&lt;/em&gt;&lt;span&gt;. Selected stations can be displayed as points on the map. Clicking on a point shows a pop-up box containing summary details for the station and a link to a page at CEDA giving full details. This has some similarities to our web-based&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;a href="http://archive.ceda.ac.uk/cgi-bin/midas_stations/midas_googlemap.cgi"&gt;Map search&lt;/a&gt;&lt;span&gt;. However, once you have installed&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;em&gt;Google Earth&lt;/em&gt;&lt;span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;and downloaded the necessary files, the user interface is richer and the performance is superior.&lt;/span&gt;&lt;/p&gt;
+<p>
+<label for="content-45124fa4-fa60-41fe-b514-9e772662f29d">Content:</label><br><textarea name="content" class="mceEditor charfield" rows="10" id="content-45124fa4-fa60-41fe-b514-9e772662f29d" cols="40">&lt;p&gt;&lt;span&gt;The&amp;nbsp;&lt;/span&gt;&lt;a href="http://earth.google.com/"&gt;Google Earth&lt;/a&gt;&lt;span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;application provides you with an interactive map of the whole world that you can navigate and zoom in on using your mouse. CEDA has made the locations of Met Office MIDAS observation stations available as files that you can load into&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;em&gt;Google Earth&lt;/em&gt;&lt;span&gt;. Selected stations can be displayed as points on the map. Clicking on a point shows a pop-up box containing summary details for the station and a link to a page at CEDA giving full details. This has some similarities to our web-based&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;a href="http://archive.ceda.ac.uk/cgi-bin/midas_stations/midas_googlemap.cgi"&gt;Map search&lt;/a&gt;&lt;span&gt;. However, once you have installed&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;em&gt;Google Earth&lt;/em&gt;&lt;span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;and downloaded the necessary files, the user interface is richer and the performance is superior.&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;To use the Google Earth map, do the following:&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -53,30 +53,30 @@ permalink: midas_stations/google_earth
 &lt;p&gt;Due to the number of stations, they are not immediately displayed on the map. To display the stations on the map, go to the&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;em&gt;Places&lt;/em&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;list in&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;em&gt;Google Earth's&lt;/em&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;sidebar, expand the&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;em&gt;MIDAS stations by area&lt;/em&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;or&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;em&gt;MIDAS stations by message type&lt;/em&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;documents and the click the check box in the appropriate sub-folders. For example, in&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;em&gt;MIDAS stations by area&lt;/em&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;you can select to display all stations in the UK, or only stations in a given county. Expand all of the directory tree to see what other options are possible. In&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;em&gt;MIDAS stations by message type&lt;/em&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;you can select to display stations according to the type of message they produce.&lt;/p&gt;
 &lt;p&gt;Stations which are currently collecting data are displayed as green markers, while 'closed' stations are displayed with a red marker. Note that even if a station is closed it may still have recorded data for the time period you require.&lt;/p&gt;</textarea>
         
-    </p>
+</p>
     
-    <p style="display:none;">
-        <label for="app-45124fa4-fa60-41fe-b514-9e772662f29d">App:</label><br><input type="hidden" name="app" value="pages" class=" charfield" id="app-45124fa4-fa60-41fe-b514-9e772662f29d">
+<p style="display:none;">
+<label for="app-45124fa4-fa60-41fe-b514-9e772662f29d">App:</label><br><input type="hidden" name="app" value="pages" class=" charfield" id="app-45124fa4-fa60-41fe-b514-9e772662f29d">
         
-    </p>
+</p>
     
-    <p style="display:none;">
-        <label for="model-45124fa4-fa60-41fe-b514-9e772662f29d">Model:</label><br><input type="hidden" name="model" value="richtextpage" class=" charfield" id="model-45124fa4-fa60-41fe-b514-9e772662f29d">
+<p style="display:none;">
+<label for="model-45124fa4-fa60-41fe-b514-9e772662f29d">Model:</label><br><input type="hidden" name="model" value="richtextpage" class=" charfield" id="model-45124fa4-fa60-41fe-b514-9e772662f29d">
         
-    </p>
+</p>
     
-    <p style="display:none;">
-        <label for="id-45124fa4-fa60-41fe-b514-9e772662f29d">Id:</label><br><input type="hidden" name="id" value="7" class=" charfield" id="id-45124fa4-fa60-41fe-b514-9e772662f29d">
+<p style="display:none;">
+<label for="id-45124fa4-fa60-41fe-b514-9e772662f29d">Id:</label><br><input type="hidden" name="id" value="7" class=" charfield" id="id-45124fa4-fa60-41fe-b514-9e772662f29d">
         
-    </p>
+</p>
     
-    <p style="display:none;">
-        <label for="fields-45124fa4-fa60-41fe-b514-9e772662f29d">Fields:</label><br><input type="hidden" name="fields" value="content" class=" charfield" id="fields-45124fa4-fa60-41fe-b514-9e772662f29d">
+<p style="display:none;">
+<label for="fields-45124fa4-fa60-41fe-b514-9e772662f29d">Fields:</label><br><input type="hidden" name="fields" value="content" class=" charfield" id="fields-45124fa4-fa60-41fe-b514-9e772662f29d">
         
-    </p>
+</p>
     
-    <input type="submit" value="Save" class="btn btn-primary btn-lg">
-    <input type="button" value="Cancel" class="btn btn-default btn-lg">
+<input type="submit" value="Save" class="btn btn-primary btn-lg">
+<input type="button" value="Cancel" class="btn btn-default btn-lg">
 </form>
 
 <div class="editable-original">
@@ -108,8 +108,8 @@ permalink: midas_stations/google_earth
 
 <div style="visibility:hidden;" class="editable-highlight"></div>
 
-            </div>
-        </div>
+</div>
+</div>
 
 
 
@@ -120,4 +120,4 @@ permalink: midas_stations/google_earth
 
 
 
-    </div>
+</div>

@@ -5,9 +5,9 @@ permalink: midas_stations/help
 
 <div class="container">
 
-        <ol class="breadcrumb">
-        <li class="breadcrumb-item" id="breadcrumb-menu-home"><a href="/">Home</a></li><li class="breadcrumb-item" id="breadcrumb-menu-midas_stations-help">MIDAS stations search help</li>
-        </ol>
+<ol class="breadcrumb">
+<li class="breadcrumb-item" id="breadcrumb-menu-home"><a href="/">Home</a></li><li class="breadcrumb-item" id="breadcrumb-menu-midas_stations-help">MIDAS stations search help</li>
+</ol>
 
 
 
@@ -21,16 +21,16 @@ permalink: midas_stations/help
 
 
 
-        <div class="row">
-            <div class="col-md-12">
+<div class="row">
+<div class="col-md-12">
 
 
 
 <form style="display:none;" class="editable-form" method="post" action="/edit/" id="8642dbe5-f1ef-4470-8322-32ac0693645e">
     <input type="hidden" name="csrfmiddlewaretoken" value="oUtGSRcyerGVcMrpuhBDt1tWkLQDmaX12RUTzl6VCfCt65KD9y4dgpw4BC1FjIHh">
     
-    <p>
-        <label for="content-8642dbe5-f1ef-4470-8322-32ac0693645e">Content:</label><br><textarea name="content" class="mceEditor charfield" rows="10" id="content-8642dbe5-f1ef-4470-8322-32ac0693645e" cols="40">&lt;h1&gt;Help on MIDAS stations search&lt;/h1&gt;
+<p>
+<label for="content-8642dbe5-f1ef-4470-8322-32ac0693645e">Content:</label><br><textarea name="content" class="mceEditor charfield" rows="10" id="content-8642dbe5-f1ef-4470-8322-32ac0693645e" cols="40">&lt;h1&gt;Help on MIDAS stations search&lt;/h1&gt;
 &lt;h2&gt;Using the stations map&lt;/h2&gt;
 &lt;p&gt;The MIDAS stations map page allows selected MIDAS stations to be displayed on a map.&lt;/p&gt;
 &lt;p&gt;To display stations first select the type of stations to be displayed from the drop-down list. You can select stations according to the specific &lt;a href="/midas_stations/met_domains"&gt;message type&lt;/a&gt; they produce, or you can select the composite type &lt;em&gt;Upper air stations&lt;/em&gt;, or you can select all stations (the default). For more help on the difference message types see the &lt;a href="https://artefacts.ceda.ac.uk/badc_datadocs/ukmo-midas/ukmo_guide.html"&gt;Met Office Surface Stations Users Guide&lt;/a&gt;&lt;/p&gt;
@@ -40,30 +40,30 @@ permalink: midas_stations/help
 &lt;p&gt;As searching and displaying stations can be quite slow you are advised to select the minimum area required for your search.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;</textarea>
         
-    </p>
+</p>
     
-    <p style="display:none;">
+<p style="display:none;">
         <label for="app-8642dbe5-f1ef-4470-8322-32ac0693645e">App:</label><br><input type="hidden" name="app" value="pages" class=" charfield" id="app-8642dbe5-f1ef-4470-8322-32ac0693645e">
         
-    </p>
+</p>
     
-    <p style="display:none;">
-        <label for="model-8642dbe5-f1ef-4470-8322-32ac0693645e">Model:</label><br><input type="hidden" name="model" value="richtextpage" class=" charfield" id="model-8642dbe5-f1ef-4470-8322-32ac0693645e">
+<p style="display:none;">
+<label for="model-8642dbe5-f1ef-4470-8322-32ac0693645e">Model:</label><br><input type="hidden" name="model" value="richtextpage" class=" charfield" id="model-8642dbe5-f1ef-4470-8322-32ac0693645e">
         
-    </p>
+</p>
     
-    <p style="display:none;">
+<p style="display:none;">
         <label for="id-8642dbe5-f1ef-4470-8322-32ac0693645e">Id:</label><br><input type="hidden" name="id" value="13" class=" charfield" id="id-8642dbe5-f1ef-4470-8322-32ac0693645e">
         
-    </p>
+</p>
     
-    <p style="display:none;">
-        <label for="fields-8642dbe5-f1ef-4470-8322-32ac0693645e">Fields:</label><br><input type="hidden" name="fields" value="content" class=" charfield" id="fields-8642dbe5-f1ef-4470-8322-32ac0693645e">
+<p style="display:none;">
+<label for="fields-8642dbe5-f1ef-4470-8322-32ac0693645e">Fields:</label><br><input type="hidden" name="fields" value="content" class=" charfield" id="fields-8642dbe5-f1ef-4470-8322-32ac0693645e">
         
-    </p>
+</p>
     
-    <input type="submit" value="Save" class="btn btn-primary btn-lg">
-    <input type="button" value="Cancel" class="btn btn-default btn-lg">
+<input type="submit" value="Save" class="btn btn-primary btn-lg">
+<input type="button" value="Cancel" class="btn btn-default btn-lg">
 </form>
 
 <div class="editable-original">
@@ -82,8 +82,8 @@ permalink: midas_stations/help
 
 <div style="visibility:hidden;" class="editable-highlight"></div>
 
-            </div>
-        </div>
+</div>
+</div>
 
 
 
@@ -94,4 +94,4 @@ permalink: midas_stations/help
 
 
 
-    </div>
+</div>

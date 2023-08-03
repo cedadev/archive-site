@@ -5,9 +5,9 @@ permalink: midas_stations/met_domains
 
 <div class="container">
 
-        <ol class="breadcrumb">
-        <li class="breadcrumb-item" id="breadcrumb-menu-home"><a href="/">Home</a></li><li class="breadcrumb-item" id="breadcrumb-menu-midas_stations-met_domains">Met Office MIDAS data - Message Types</li>
-        </ol>
+<ol class="breadcrumb">
+<li class="breadcrumb-item" id="breadcrumb-menu-home"><a href="/">Home</a></li><li class="breadcrumb-item" id="breadcrumb-menu-midas_stations-met_domains">Met Office MIDAS data - Message Types</li>
+</ol>
 
 
 
@@ -21,16 +21,16 @@ permalink: midas_stations/met_domains
 
 
 
-        <div class="row">
-            <div class="col-md-12">
+<div class="row">
+<div class="col-md-12">
 
 
 
 <form style="display:none;" class="editable-form" method="post" action="/edit/" id="d07ad239-2af6-432b-bf3f-a68525bb62eb">
     <input type="hidden" name="csrfmiddlewaretoken" value="fn1GMouZH7BxyTCtMhRaAcJiutPzrWJETksTtSom5Vx5scVHrykKnAMqLk0BoutU">
     
-    <p>
-        <label for="content-d07ad239-2af6-432b-bf3f-a68525bb62eb">Content:</label><br><textarea name="content" class="mceEditor charfield" rows="10" id="content-d07ad239-2af6-432b-bf3f-a68525bb62eb" cols="40">&lt;h1&gt;Met Office MIDAS data - Message Types&lt;/h1&gt;
+<p>
+<label for="content-d07ad239-2af6-432b-bf3f-a68525bb62eb">Content:</label><br><textarea name="content" class="mceEditor charfield" rows="10" id="content-d07ad239-2af6-432b-bf3f-a68525bb62eb" cols="40">&lt;h1&gt;Met Office MIDAS data - Message Types&lt;/h1&gt;
 &lt;p&gt;&lt;span&gt;It is convenient to distinguish between:&lt;/span&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;an observation, a group of one or more meteorological elements, plus some location and time information; other data items are added to an observation before it is encoded into a message.&lt;/li&gt;
@@ -488,30 +488,30 @@ permalink: midas_stations/met_domains
 &lt;/tbody&gt;
 &lt;/table&gt;</textarea>
         
-    </p>
+</p>
     
-    <p style="display:none;">
-        <label for="app-d07ad239-2af6-432b-bf3f-a68525bb62eb">App:</label><br><input type="hidden" name="app" value="pages" class=" charfield" id="app-d07ad239-2af6-432b-bf3f-a68525bb62eb">
+<p style="display:none;">
+<label for="app-d07ad239-2af6-432b-bf3f-a68525bb62eb">App:</label><br><input type="hidden" name="app" value="pages" class=" charfield" id="app-d07ad239-2af6-432b-bf3f-a68525bb62eb">
         
-    </p>
+</p>
     
-    <p style="display:none;">
-        <label for="model-d07ad239-2af6-432b-bf3f-a68525bb62eb">Model:</label><br><input type="hidden" name="model" value="richtextpage" class=" charfield" id="model-d07ad239-2af6-432b-bf3f-a68525bb62eb">
+<p style="display:none;">
+<label for="model-d07ad239-2af6-432b-bf3f-a68525bb62eb">Model:</label><br><input type="hidden" name="model" value="richtextpage" class=" charfield" id="model-d07ad239-2af6-432b-bf3f-a68525bb62eb">
         
-    </p>
+</p>
     
-    <p style="display:none;">
-        <label for="id-d07ad239-2af6-432b-bf3f-a68525bb62eb">Id:</label><br><input type="hidden" name="id" value="8" class=" charfield" id="id-d07ad239-2af6-432b-bf3f-a68525bb62eb">
+<p style="display:none;">
+<label for="id-d07ad239-2af6-432b-bf3f-a68525bb62eb">Id:</label><br><input type="hidden" name="id" value="8" class=" charfield" id="id-d07ad239-2af6-432b-bf3f-a68525bb62eb">
         
-    </p>
+</p>
     
-    <p style="display:none;">
-        <label for="fields-d07ad239-2af6-432b-bf3f-a68525bb62eb">Fields:</label><br><input type="hidden" name="fields" value="content" class=" charfield" id="fields-d07ad239-2af6-432b-bf3f-a68525bb62eb">
+<p style="display:none;">
+<label for="fields-d07ad239-2af6-432b-bf3f-a68525bb62eb">Fields:</label><br><input type="hidden" name="fields" value="content" class=" charfield" id="fields-d07ad239-2af6-432b-bf3f-a68525bb62eb">
         
-    </p>
+</p>
     
-    <input type="submit" value="Save" class="btn btn-primary btn-lg">
-    <input type="button" value="Cancel" class="btn btn-default btn-lg">
+<input type="submit" value="Save" class="btn btn-primary btn-lg">
+<input type="button" value="Cancel" class="btn btn-default btn-lg">
 </form>
 
 <div class="editable-original">
@@ -978,6 +978,6 @@ permalink: midas_stations/met_domains
 
 <div style="visibility:hidden;" class="editable-highlight"></div>
 
-            </div>
+</div>
 
 

@@ -25,7 +25,7 @@ list_title: Posts
         </div>
     </div>
 
-    <div class="card text-center" style="width: 18rem;">
+<div class="card text-center" style="width: 18rem;">
         <img class="card-img-top" src="{{site.baseurl}}/static/core-trust-seal-px-300_height.jpeg" alt="Card image cap">
         <div class="card-body">
             <h5 class="card-title">We are a trusted repository</h5>
@@ -34,7 +34,7 @@ list_title: Posts
         </div>
     </div>
 
-    <div class="card text-center" style="width: 18rem;">
+<div class="card text-center" style="width: 18rem;">
         <img class="card-img-top" src="{{site.baseurl}}/static/uk-pxheight-334-s3a_sl_2_wst____20210804t104352_20210804t104652_20210804t125626_0179_074_379_1980_mar_o_nr_003_wst_brightness_temperature_channel_3.png" alt="Card image cap">
         <div class="card-body">
             <h5 class="card-title">Supporting international atmospheric, climate and earth observation research</h5>
@@ -46,10 +46,10 @@ list_title: Posts
 
 
 
-    <div class="card-deck">
+<div class="card-deck">
     
         
-            <div class="card text-center" style="width: 18rem;">
+<div class="card text-center" style="width: 18rem;">
                         <div class="card-header">
                             <span class="fa-stack fa-4x">
                                 <i class="fa fa-circle fa-stack-2x text-primary"></i>
@@ -63,7 +63,7 @@ list_title: Posts
                         </div>
                     </div>
         
-            <div class="card text-center" style="width: 18rem;">
+<div class="card text-center" style="width: 18rem;">
             <div class="card-header">
             <span class="fa-stack fa-4x">
                                 <i class="fas fa-circle fa-stack-2x text-primary"></i>
@@ -77,24 +77,23 @@ list_title: Posts
                 </div>
             </div>
         
-            <div class="card text-center" style="width: 18rem;">
+<div class="card text-center" style="width: 18rem;">
             <div class="card-header">    
                         
-                            <span class="fa-stack fa-4x">
+<span class="fa-stack fa-4x">
                                 <i class="fas fa-circle fa-stack-2x text-primary"></i>
                                 <i class="fas fa-upload fa-stack-1x fa-inverse"></i>
                             </span>
                         
 
-                </div>
+</div>
                 <div class="card-body">
                     <h4 class="card-title"><a class="inherit-color" href="/about/depositing-data/">Depositing data</a></h4>
             <p class="card-text"></p><p><span>Our main goal is to ensure that atmospheric and earth observation data are made available and accessible to all in order to fully realise their reuse potential.&nbsp;</span></p><p></p>
             <a href="/about/depositing-data/" class="btn btn-default">Learn More</a>
                 </div>
             </div>
-        
-    </div>
+        </div>
 
 
 </div>

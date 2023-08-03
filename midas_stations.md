@@ -5,9 +5,9 @@ permalink: /midas_stations
 
 <div class="container">
 
-        <ol class="breadcrumb">
-        <li class="breadcrumb-item" id="breadcrumb-menu-home"><a href="/">Home</a></li><li class="breadcrumb-item" id="breadcrumb-menu-midas_stations">Search for Met Office MIDAS stations</li>
-        </ol>
+<ol class="breadcrumb">
+<li class="breadcrumb-item" id="breadcrumb-menu-home"><a href="/">Home</a></li><li class="breadcrumb-item" id="breadcrumb-menu-midas_stations">Search for Met Office MIDAS stations</li>
+</ol>
 
 
 
@@ -21,16 +21,16 @@ permalink: /midas_stations
 
 
 
-        <div class="row">
-            <div class="col-md-12">
+<div class="row">
+<div class="col-md-12">
 
 
 
 <form style="display:none;" class="editable-form" method="post" action="/edit/" id="0ea73316-5ef1-434a-8584-1bbeb6c22c54">
     <input type="hidden" name="csrfmiddlewaretoken" value="bQ6bzsEOEW2GsZMeGiFiRJOQhzBjHusCPNxogWyb2KYemi5slz8SE7RYyqMlE2cS">
     
-    <p>
-        <label for="content-0ea73316-5ef1-434a-8584-1bbeb6c22c54">Content:</label><br><textarea name="content" class="mceEditor charfield" rows="10" id="content-0ea73316-5ef1-434a-8584-1bbeb6c22c54" cols="40">&lt;h1&gt;Search for Met Office MIDAS stations&lt;/h1&gt;
+<p>
+<label for="content-0ea73316-5ef1-434a-8584-1bbeb6c22c54">Content:</label><br><textarea name="content" class="mceEditor charfield" rows="10" id="content-0ea73316-5ef1-434a-8584-1bbeb6c22c54" cols="40">&lt;h1&gt;Search for Met Office MIDAS stations&lt;/h1&gt;
 &lt;h3&gt;Maps&lt;/h3&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://archive2.ceda.ac.uk/cgi-bin/midas_stations/midas_googlemap.cgi"&gt;View stations on interactive map&lt;/a&gt; &amp;nbsp; &amp;nbsp; Also available as a &lt;a href="google_earth"&gt;Google Earth&lt;/a&gt; download.&lt;/p&gt;
@@ -268,30 +268,30 @@ Open within year range: &lt;input maxlength="4" name="minyear" size="4" type="te
 &lt;/table&gt;
 &lt;/form&gt;</textarea>
         
-    </p>
+</p>
     
-    <p style="display:none;">
-        <label for="app-0ea73316-5ef1-434a-8584-1bbeb6c22c54">App:</label><br><input type="hidden" name="app" value="pages" class=" charfield" id="app-0ea73316-5ef1-434a-8584-1bbeb6c22c54">
+<p style="display:none;">
+<label for="app-0ea73316-5ef1-434a-8584-1bbeb6c22c54">App:</label><br><input type="hidden" name="app" value="pages" class=" charfield" id="app-0ea73316-5ef1-434a-8584-1bbeb6c22c54">
         
-    </p>
+</p>
     
-    <p style="display:none;">
-        <label for="model-0ea73316-5ef1-434a-8584-1bbeb6c22c54">Model:</label><br><input type="hidden" name="model" value="richtextpage" class=" charfield" id="model-0ea73316-5ef1-434a-8584-1bbeb6c22c54">
+<p style="display:none;">
+<label for="model-0ea73316-5ef1-434a-8584-1bbeb6c22c54">Model:</label><br><input type="hidden" name="model" value="richtextpage" class=" charfield" id="model-0ea73316-5ef1-434a-8584-1bbeb6c22c54">
         
-    </p>
+</p>
     
-    <p style="display:none;">
-        <label for="id-0ea73316-5ef1-434a-8584-1bbeb6c22c54">Id:</label><br><input type="hidden" name="id" value="3" class=" charfield" id="id-0ea73316-5ef1-434a-8584-1bbeb6c22c54">
+<p style="display:none;">
+<label for="id-0ea73316-5ef1-434a-8584-1bbeb6c22c54">Id:</label><br><input type="hidden" name="id" value="3" class=" charfield" id="id-0ea73316-5ef1-434a-8584-1bbeb6c22c54">
         
-    </p>
+</p>
     
-    <p style="display:none;">
-        <label for="fields-0ea73316-5ef1-434a-8584-1bbeb6c22c54">Fields:</label><br><input type="hidden" name="fields" value="content" class=" charfield" id="fields-0ea73316-5ef1-434a-8584-1bbeb6c22c54">
+<p style="display:none;">
+    <label for="fields-0ea73316-5ef1-434a-8584-1bbeb6c22c54">Fields:</label><br><input type="hidden" name="fields" value="content" class=" charfield" id="fields-0ea73316-5ef1-434a-8584-1bbeb6c22c54">
         
-    </p>
+</p>
     
-    <input type="submit" value="Save" class="btn btn-primary btn-lg">
-    <input type="button" value="Cancel" class="btn btn-default btn-lg">
+<input type="submit" value="Save" class="btn btn-primary btn-lg">
+<input type="button" value="Cancel" class="btn btn-default btn-lg">
 </form>
 
 <div class="editable-original">
@@ -538,8 +538,8 @@ Open within year range: <input maxlength="4" name="minyear" size="4" type="text"
 
 <div style="visibility:hidden;" class="editable-highlight"></div>
 
-            </div>
-        </div>
+</div>
+</div>
 
 
 
@@ -550,4 +550,4 @@ Open within year range: <input maxlength="4" name="minyear" size="4" type="text"
 
 
 
-    </div>
+</div>
