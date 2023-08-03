@@ -27,15 +27,15 @@ permalink: about/depositing-data/
             <p><span>Our main goal is to ensure that atmospheric and earth observation data are made available and accessible to all in order to fully realise their reuse potential.&nbsp;</span></p>
 <p></p>
 <p><a href="https://www.ceda.ac.uk/about/team/"><span></span></a></p>
-    </div>
+</div>
 <div class="col-4 text-right">
         
-            <span class="fa-stack fa-3x pull-right">
-                <i class="fas fa-circle fa-stack-2x text-primary"></i>
-                <i class="fas fa-upload fa-stack-1x fa-inverse"></i>
-            </span>
+<span class="fa-stack fa-3x pull-right">
+<i class="fas fa-circle fa-stack-2x text-primary"></i>
+<i class="fas fa-upload fa-stack-1x fa-inverse"></i>
+</span>
         
-    </div>
+</div>
 <br>
 <div class="row">
 <p>
