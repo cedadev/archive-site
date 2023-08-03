@@ -20,50 +20,49 @@ The aim of the CEDA Archive is to provide a long-term home for data produced by 
 
 <div class="card-deck">
 
-        <div class="col-4">
+<div class="col-4">
 
-            <div class="card text-center">
-                <div class="card-header">
+<div class="card text-center">
+<div class="card-header">
 
-                            <span class="fa-stack fa-5x">
-                                <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                                <i class="fa fa-download fa-stack-1x fa-inverse"></i>
-                            </span>
+<span class="fa-stack fa-5x">
+<i class="fa fa-circle fa-stack-2x text-primary"></i>
+<i class="fa fa-download fa-stack-1x fa-inverse"></i>
+</span>
 
 
-                </div>
-                <div class="card-body">
-                    <h4 class="card-title"><a class="inherit-color" href="/about/accessing-data/">Accessing data</a></h4>
-                    <p class="card-text"></p>
-                    <a href="/about/accessing-data/" class="btn btn-default">Learn More</a>
-                </div>
-            </div>
-
-        </div>
+</div>
+<div class="card-body">
+<h4 class="card-title"><a class="inherit-color" href="/about/accessing-data/">Accessing data</a></h4>
+<p class="card-text"></p>
+<a href="/about/accessing-data/" class="btn btn-default">Learn More</a>
+</div>
+</div>
+</div>
 
 </div>
 
 <div class="card-deck">
 
-        <div class="col-4">
+<div class="col-4">
 
-            <div class="card text-center" style="width: 18rem;">
-                <div class="card-header">
+<div class="card text-center" style="width: 18rem;">
+<div class="card-header">
 
-                            <span class="fa-stack fa-5x">
-                                <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                                <i class="fa fa-upload fa-stack-1x fa-inverse"></i>
-                            </span>
+<span class="fa-stack fa-5x">
+<i class="fa fa-circle fa-stack-2x text-primary"></i>
+<i class="fa fa-upload fa-stack-1x fa-inverse"></i>
+</span>
 
 
-                </div>
-                <div class="card-body">
-                    <h4 class="card-title"><a class="inherit-color" href="/about/depositing-data/">Depositing data</a></h4>
-                    <p class="card-text"></p>
-                    <a href="/about/depositing-data/" class="btn btn-default">Learn More</a>
-                </div>
-            </div>
+</div>
+<div class="card-body">
+<h4 class="card-title"><a class="inherit-color" href="/about/depositing-data/">Depositing data</a></h4>
+<p class="card-text"></p>
+<a href="/about/depositing-data/" class="btn btn-default">Learn More</a>
+</div>
+</div>
 
-        </div>
+</div>
 
 </div>
