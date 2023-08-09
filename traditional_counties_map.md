@@ -73,7 +73,7 @@ permalink: midas_stations/traditional_counties_map/
 <p>Map of traditional counties of Great Britain</p>
 <h1>Map of traditional counties of Great Britain</h1>
 <p><em>Please note that the county names used in the MIDAS stations catalogue may not necessarily be consistent with the names on this map.</em></p>
-<p><img alt="Map of traditional counties of Great Britain" height="1264" src="/static/traditional_counties_map-797x1264.gif" width="797"></p>
+<p><img alt="Map of traditional counties of Great Britain" height="1264" src="{{site.baseurl}}/static/traditional_counties_map-797x1264.gif" width="797"></p>
 <center>Map courtesy of the <a href="http://www.abcounties.co.uk">Association of British Counties</a></center>
 </div>
 
