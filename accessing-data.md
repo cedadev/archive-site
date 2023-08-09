@@ -7,10 +7,10 @@ permalink: about/accessing-data
 
 <ol class="breadcrumb">
 <li class="breadcrumb-item" id="breadcrumb-menu-home">
-<a href="/">Home</a>
+<a href="{{site.baseurl}}/">Home</a>
 </li>
 <li class="breadcrumb-item" id="breadcrumb-menu-about">
-<a href="/about/">About</a>
+<a href="{{site.baseurl}}/about/">About</a>
 </li>
 <li class="breadcrumb-item" id="breadcrumb-menu-accessing-data">Accessing Data
 </li> 

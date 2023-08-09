@@ -13,7 +13,7 @@ permalink: midas_stations/traditional_counties_map/
 
 
 <ol class="breadcrumb">
-<li class="breadcrumb-item" id="breadcrumb-menu-home"><a href="/">Home</a></li><li class="breadcrumb-item" id="breadcrumb-menu-midas_stations-traditional_counties_map">Map of traditional counties of Great Britain</li>
+<li class="breadcrumb-item" id="breadcrumb-menu-home"><a href="{{site.baseurl}}/">Home</a></li><li class="breadcrumb-item" id="breadcrumb-menu-midas_stations-traditional_counties_map">Map of traditional counties of Great Britain</li>
 </ol>
         
     

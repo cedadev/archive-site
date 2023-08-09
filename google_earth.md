@@ -6,7 +6,7 @@ permalink: midas_stations/google_earth
 <div class="container">
 
 <ol class="breadcrumb">
-<li class="breadcrumb-item" id="breadcrumb-menu-home"><a href="/">Home</a></li><li class="breadcrumb-item" id="breadcrumb-menu-midas_stations-google_earth">Met Office Surface stations on Google Earth</li>
+<li class="breadcrumb-item" id="breadcrumb-menu-home"><a href="{{site.baseurl}}/">Home</a></li><li class="breadcrumb-item" id="breadcrumb-menu-midas_stations-google_earth">Met Office Surface stations on Google Earth</li>
 </ol>
 
 <div class="row">
