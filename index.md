@@ -57,9 +57,9 @@ list_title: Posts
                             </span>
                         </div>
                         <div class="card-body">
-                            <h4 class="card-title"><a class="inherit-color" href="/about/">About</a></h4>
+                            <h4 class="card-title"><a class="inherit-color" href="about/">About</a></h4>
                     <p class="card-text"></p><p><span>Find out more about the role of the CEDA Archive</span></p><p></p>
-                    <a href="/about/" class="btn btn-default">Learn More</a>
+                    <a href="about/" class="btn btn-default">Learn More</a>
                         </div>
                     </div>
         
@@ -73,7 +73,7 @@ list_title: Posts
                 <div class="card-body">
                     <h4 class="card-title"><a class="inherit-color" href="about/accessing-data">Accessing data</a></h4>
             <p class="card-text"></p><p><span>We hold environmental data related to atmospheric and earth observation fields.&nbsp;</span></p><p></p>
-            <a href="/about/accessing-data/" class="btn btn-default">Learn More</a>
+            <a href="about/accessing-data/" class="btn btn-default">Learn More</a>
                 </div>
             </div>
         
@@ -88,9 +88,9 @@ list_title: Posts
 
 </div>
                 <div class="card-body">
-                    <h4 class="card-title"><a class="inherit-color" href="/about/depositing-data/">Depositing data</a></h4>
+                    <h4 class="card-title"><a class="inherit-color" href="about/depositing-data/">Depositing data</a></h4>
             <p class="card-text"></p><p><span>Our main goal is to ensure that atmospheric and earth observation data are made available and accessible to all in order to fully realise their reuse potential.&nbsp;</span></p><p></p>
-            <a href="/about/depositing-data/" class="btn btn-default">Learn More</a>
+            <a href="about/depositing-data/" class="btn btn-default">Learn More</a>
                 </div>
             </div>
         </div>

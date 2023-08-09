@@ -23,13 +23,13 @@ permalink: /tools/
  - <a href="https://esgf-index1.ceda.ac.uk/projects/esgf-ceda/">Earth System Grid Federation</a> (ESGF)
  - <a href="https://geo-search.ceda.ac.uk/">Satellite Data Finder</a> (Sentinel and Landsat missions currently)
  - <a href="https://flight-finder.ceda.ac.uk/">Flight Finder</a> (airborne data)
- - <a href="/midas_stations">Met Office MIDAS stations search</a>
- - <a href="/corral">CORRAL catalogue</a>
+ - <a href="midas_stations">Met Office MIDAS stations search</a>
+ - <a href="corral">CORRAL catalogue</a>
 
 ## Data format checkers
 
 When producing data you can use these tools to work out it's formated correctly.
 
  - [CSV checker](https://archive2.ceda.ac.uk//cgi-bin/badccsv/csvchecker)
- - [NASA-Ames checker](/nachecker)
+ - [NASA-Ames checker](https://archive2.ceda.ac.uk/nachecker)
 

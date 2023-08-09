@@ -1,6 +1,6 @@
 ---
 layout: base_ceda
-permalink: /midas_stations
+permalink: tools/midas_stations
 ---
 
 <div class="container">
