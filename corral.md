@@ -1,4 +1,7 @@
-\--- permalink: /corral ---
+--- 
+permalink: /corral 
+layout: base_ceda
+---
 
 UK COLONIAL REGISTERS AND ROYAL NAVY LOGBOOKS: making the past available for the future
 =======================================================================================

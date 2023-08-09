@@ -10,17 +10,6 @@ permalink: midas_stations/met_domains
 </ol>
 
 
-
-
-
-
-
-
-
-
-
-
-
 <div class="row">
 <div class="col-md-12">
 
