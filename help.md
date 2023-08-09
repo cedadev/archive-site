@@ -6,7 +6,7 @@ permalink: midas_stations/help
 <div class="container">
 
 <ol class="breadcrumb">
-<li class="breadcrumb-item" id="breadcrumb-menu-home"><a href="/">Home</a></li><li class="breadcrumb-item" id="breadcrumb-menu-midas_stations-help">MIDAS stations search help</li>
+<li class="breadcrumb-item" id="breadcrumb-menu-home"><a href="{{site.baseurl}}/">Home</a></li><li class="breadcrumb-item" id="breadcrumb-menu-midas_stations-help">MIDAS stations search help</li>
 </ol>
 
 
