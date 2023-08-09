@@ -1,5 +1,5 @@
 --- 
-permalink: /corral 
+permalink: tools/corral 
 layout: base_ceda
 ---
 

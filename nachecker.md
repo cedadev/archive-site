@@ -1,5 +1,5 @@
 --- 
-permalink: /nachecker
+permalink: /tools/nachecker
 layout: base_ceda
 title: Dataex NASA-Ames file format checker
 ---
