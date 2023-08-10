@@ -15,12 +15,12 @@ Records of the Admiralty, Naval Forces, Royal Marines, Coastguard, and related b
 
 These records are held at The National Archive, Kew. The ADM section includes records of the Admiralty, Naval Forces, Royal Marines, Coastguard, and related bodies, concerning all aspects of the organisation and operation of the Royal Navy and associated naval forces, over the period 1205-1998 (more details are available in the National Archives [catalogue entry](http://www.nationalarchives.gov.uk/catalogue/displaycataloguedetails.asp?CATID=4&CATLN=1)). The CORRAL project deals with the following series:
 
-*   [ADM51: Admiralty: Captains' Logs, 1669-1853](adm51/adm51_index.html)
-*   [ADM53: Admiralty: and Ministry of Defence, Navy Department: Ships' Logs 1799-1985](adm53/adm53_index.html)
-*   [ADM55: Admiralty: Supplementary Logs and Journals of Ships on Exploration, 1757-1861; 1904](adm55/adm55_index.html), including logs from the voyages of James Cook.
+*   [ADM51: Admiralty: Captains' Logs, 1669-1853](adm51/adm51_index)
+*   [ADM53: Admiralty: and Ministry of Defence, Navy Department: Ships' Logs 1799-1985](adm53/adm53_index)
+*   [ADM55: Admiralty: Supplementary Logs and Journals of Ships on Exploration, 1757-1861; 1904](adm55/adm55_index), including logs from the voyages of James Cook.
 
 Links to further information
 ----------------------------
 
 Further information is available from the project [web page](http://www.corral.org.uk/).  
-If you have an inquiry, see the [contacts page](contacts.html).
+If you have an inquiry, see the [contacts page](contacts).
