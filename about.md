@@ -33,9 +33,9 @@ The aim of the CEDA Archive is to provide a long-term home for data produced by 
 
 </div>
 <div class="card-body">
-<h4 class="card-title"><a class="inherit-color" href="about/accessing-data/">Accessing data</a></h4>
+<h4 class="card-title"><a class="inherit-color" href="{{site.baseurl}}/about/accessing-data/">Accessing data</a></h4>
 <p class="card-text"></p>
-<a href="about/accessing-data/" class="btn btn-default">Learn More</a>
+<a href="{{site.baseurl}}/about/accessing-data/" class="btn btn-default">Learn More</a>
 </div>
 </div>
 </div>
@@ -57,9 +57,9 @@ The aim of the CEDA Archive is to provide a long-term home for data produced by 
 
 </div>
 <div class="card-body">
-<h4 class="card-title"><a class="inherit-color" href="about/depositing-data/">Depositing data</a></h4>
+<h4 class="card-title"><a class="inherit-color" href="{{site.baseurl}}/about/depositing-data/">Depositing data</a></h4>
 <p class="card-text"></p>
-<a href="about/depositing-data/" class="btn btn-default">Learn More</a>
+<a href="{{site.baseurl}}/about/depositing-data/" class="btn btn-default">Learn More</a>
 </div>
 </div>
 
