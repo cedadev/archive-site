@@ -1,6 +1,6 @@
 ---
 layout: base_ceda
-permalink: midas_stations/google_earth
+permalink: tools/google_earth
 ---
 
 <div class="container">

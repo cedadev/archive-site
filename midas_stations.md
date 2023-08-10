@@ -52,7 +52,7 @@ permalink: tools/midas_stations
 <h1>Search for Met Office MIDAS stations</h1>
 <h3>Maps</h3>
 <p></p>
-<p><a href="https://archive2.ceda.ac.uk/cgi-bin/midas_stations/midas_googlemap.cgi">View stations on interactive map</a> &nbsp; &nbsp; Also available as a <a href="google_earth.html">Google Earth</a> download.</p>
+<p><a href="https://archive2.ceda.ac.uk/cgi-bin/midas_stations/midas_googlemap.cgi">View stations on interactive map</a> &nbsp; &nbsp; Also available as a <a href="{{site.baseurl}}/tools/google_earth">Google Earth</a> download.</p>
 <h3>Search for station name</h3>
 <p>Finds all station names contain the given string. The string is matched anywhere within the station name and is not case sensitive.</p>
 <form action="https://archive2.ceda.ac.uk/cgi-bin/midas_stations/search_by_name.cgi.py">
@@ -84,7 +84,7 @@ Open within year range: <input maxlength="4" name="minyear" size="4" type="text"
 </table>
 </form>
 <h3>Search for stations by UK county</h3>
-<p>Select a county to display all stations with that county. Please note that the county names are the names used by the Met Office and may not reflect the current county divisions within the UK. <a href="traditional_counties_map">Map of traditional counties</a></p>
+<p>Select a county to display all stations with that county. Please note that the county names are the names used by the Met Office and may not reflect the current county divisions within the UK. <a href="{{site.baseurl}}/tools/traditional_counties_map">Map of traditional counties</a></p>
 <form action="https://archive2.ceda.ac.uk/cgi-bin/midas_stations/search_by_county.cgi.py">
 <table class="table">
 <tbody>

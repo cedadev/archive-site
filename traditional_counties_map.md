@@ -1,6 +1,6 @@
 ---
 layout: base_ceda
-permalink: midas_stations/traditional_counties_map/
+permalink: tools/traditional_counties_map/
 ---
 
 <div class="container">
