@@ -9,7 +9,7 @@ permalink: about/depositing-data/
 {% include breadcrumbs.html %}
 
 
-![]({{site.baseurl}}\static\noaa-5hzjvgpg6vo-unsplash-300x0.jpg)
+![]({{site.baseurl}}\static\noaa-5hzjvgpg6vo-unsplash-300x0.jpg)\
 <!-- missing a picture which was made through font awesome?-->
 Our main goal is to ensure that atmospheric and earth observation data are made available and accessible to all in order to fully realise their reuse potential. 
 
