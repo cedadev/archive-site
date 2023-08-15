@@ -5,9 +5,9 @@ permalink: midas_stations/met_domains
 
 <div class="container">
 
-<ol class="breadcrumb">
-<li class="breadcrumb-item" id="breadcrumb-menu-home"><a href="{{site.baseurl}}/">Home</a></li><li class="breadcrumb-item" id="breadcrumb-menu-midas_stations-met_domains">Met Office MIDAS data - Message Types</li>
-</ol>
+
+
+{% include breadcrumbs.html %}
 
 
 <div class="row">

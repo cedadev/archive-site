@@ -4,14 +4,9 @@ layout: base_ceda
 permalink: /about/
 ---
 
-<ol class="breadcrumb">
-<li class="breadcrumb-item" id="breadcrumb-menu-home">
-<a href="{{site.baseurl}}/">Home</a>
-</li>
-<li class="breadcrumb-item" id="breadcrumb-menu-about">About
-</li>
 
-</ol>
+{% include breadcrumbs.html %}
+
 The [Centre for Environmental Data Analysis](https://www.ceda.ac.uk/) (CEDA) runs the UK's national data centre for atmospheric and earth observation research, hosting over 18 Petabytes of data.
 
 The CEDA Archive forms part of [NERC's Environmental Data Service (EDS)](https://eds.ukri.org/) - a network of data centres covering all aspects of environmental science. The EDS provides a focal point for NERC's scientific data and information. We work with the other data centres to ensure that environmental data is deposited in the most appropriate archive.
