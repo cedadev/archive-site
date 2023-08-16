@@ -1,18 +1,18 @@
 <ol class="breadcrumb">
-    <li class="breadcrumb-item" id="breadcrumb-menu-home">
-      <a href="{{site.baseurl}}/">Home</a>
-    </li>
-    
-    {% assign url_parts = page.url | split: '/' %}
-    {% assign url_path = '' %}
-    
-    {% for url_part in url_parts %}
-      {% assign url_path = url_path | append: '/' | append: url_part %}
-      {% if url_part != "" %}
-        <li class="breadcrumb-item" id="breadcrumb-menu-{{ url_part }}">
-            <a href="{{site.baseurl}}/ {{url_path}}">{{ url_part | replace: '_', ' ' | replace: '-', ' ' | capitalize }}</a>
-        </li>
-      {% endif %}
-    {% endfor %}
-  </ol>
-  
+  <li class="breadcrumb-item" id="breadcrumb-menu-home">
+    <a href="{{ site.baseurl }}">Home</a>
+  </li>
+
+  {% assign url_parts = page.url | split: '/' %}
+  {% assign url_path = '' %}
+
+  {% for url_part in url_parts %}
+    {% assign cleansed_url_part = url_part | strip %} 
+    {% if cleansed_url_part != "" %}
+      {% assign url_path = url_path | append: '/' | append: sanitized_url_part %}
+      <li class="breadcrumb-item" id="breadcrumb-menu-{{ sanitized_url_part }}">
+        <a href="{{ site.baseurl }}{{ url_path }}">{{ sanitized_url_part | replace: '_', ' ' | replace: '-', ' ' | capitalize }}</a>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ol>
