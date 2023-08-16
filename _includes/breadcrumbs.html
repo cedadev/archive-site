@@ -10,7 +10,7 @@
       {% assign url_path = url_path | append: '/' | append: url_part %}
       {% if url_part != "" %}
         <li class="breadcrumb-item" id="breadcrumb-menu-{{ url_part }}">
-            <a href="{{site.baseurl}}/ {{url_path}}">{{ url_part | replace: '-', ' ' | capitalize }}</a>
+            <a href="{{site.baseurl}}/ {{url_path}}">{{ url_part | replace: '_', ' ' | replace: '-', ' ' | capitalize }}</a>
         </li>
       {% endif %}
     {% endfor %}
