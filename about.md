@@ -1,11 +1,8 @@
 ---
 title: About the CEDA Archive
-layout: base_ceda
+layout: base_ceda_breadcrumbs
 permalink: /about/
 ---
-
-
-{% include breadcrumbs.html %}
 
 The [Centre for Environmental Data Analysis](https://www.ceda.ac.uk/) (CEDA) runs the UK's national data centre for atmospheric and earth observation research, hosting over 18 Petabytes of data.
 

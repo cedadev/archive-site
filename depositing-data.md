@@ -1,12 +1,10 @@
 ---
 title: depositing-data
-layout: base_ceda
+layout: base_ceda_breadcrumbs
 permalink: about/depositing-data/
 ---
 
 
-
-{% include breadcrumbs.html %}
 
 
 <div class="row">

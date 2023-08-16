@@ -1,9 +1,8 @@
 ---
-layout: base_ceda
+layout: base_ceda_breadcrumbs
 permalink: tools/google_earth
 ---
 
-{% include breadcrumbs.html %}
 
 The [Google Earth](http://earth.google.com/)application provides you with an interactive map of the whole world that you can navigate and zoom in on using your mouse. CEDA has made the locations of Met Office MIDAS observation stations available as files that you can load into_Google Earth_. Selected stations can be displayed as points on the map. Clicking on a point shows a pop-up box containing summary details for the station and a link to a page at CEDA giving full details. This has some similarities to our web-based[Map search](http://archive2.ceda.ac.uk/cgi-bin/midas_stations/midas_googlemap.cgi). However, once you have installed_Google Earth_and downloaded the necessary files, the user interface is richer and the performance is superior.
 

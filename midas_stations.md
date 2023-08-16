@@ -1,13 +1,9 @@
 ---
-layout: base_ceda
+layout: base_ceda_breadcrumbs
 permalink: tools/midas_stations
 ---
 
 <div class="container">
-
-
-{% include breadcrumbs.html %}
-
 
 
 

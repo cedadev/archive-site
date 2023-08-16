@@ -1,9 +1,7 @@
 ---
-layout: base_ceda
+layout: base_ceda_breadcrumbs
 permalink: tools/midas_stations/help
 ---
-
-{% include breadcrumbs.html %}
 
 Help on MIDAS stations search
 =============================

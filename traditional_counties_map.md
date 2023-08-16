@@ -1,24 +1,7 @@
 ---
-layout: base_ceda
+layout: base_ceda_breadcrumbs
 permalink: tools/traditional_counties_map/
 ---
-
-
-
-      
-
-    
-
-    
-
-
-        
-{% include breadcrumbs.html %}
-
-    
-
-    
-
 
 
     
