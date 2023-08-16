@@ -1,20 +1,10 @@
 ---
 title: depositing-data
-layout: base_ceda
+layout: base_ceda_breadcrumbs
 permalink: about/depositing-data/
 ---
 
 
-<ol class="breadcrumb">
-<li class="breadcrumb-item" id="breadcrumb-menu-home">
-<a href="{{site.baseurl}}/">Home</a>
-</li>
-<li class="breadcrumb-item" id="breadcrumb-menu-about">
-<a href="{{site.baseurl}}/about/">About</a>
-</li>
-<li class="breadcrumb-item" id="breadcrumb-menu-accessing-data">Depositing Data
-</li> 
-</ol>
 
 
 <div class="row">

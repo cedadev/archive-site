@@ -1,52 +1,14 @@
 ---
-layout: base_ceda
+layout: base_ceda_breadcrumbs
 permalink: tools/midas_stations
 ---
 
 <div class="container">
 
-<ol class="breadcrumb">
-<li class="breadcrumb-item" id="breadcrumb-menu-home"><a href="{{site.baseurl}}/">Home</a></li><li class="breadcrumb-item" id="breadcrumb-menu-midas_stations">Search for Met Office MIDAS stations</li>
-</ol>
-
 
 
 <div class="row">
 <div class="col-md-12">
-
-
-
-<form style="display:none;" class="editable-form" method="post" action="/edit/" id="0ea73316-5ef1-434a-8584-1bbeb6c22c54">
-    <input type="hidden" name="csrfmiddlewaretoken" value="bQ6bzsEOEW2GsZMeGiFiRJOQhzBjHusCPNxogWyb2KYemi5slz8SE7RYyqMlE2cS">
-    
-<p>
-<label for="content-0ea73316-5ef1-434a-8584-1bbeb6c22c54">Content:</label><br>
-        
-</p>
-    
-<p style="display:none;">
-<label for="app-0ea73316-5ef1-434a-8584-1bbeb6c22c54">App:</label><br><input type="hidden" name="app" value="pages" class=" charfield" id="app-0ea73316-5ef1-434a-8584-1bbeb6c22c54">
-        
-</p>
-    
-<p style="display:none;">
-<label for="model-0ea73316-5ef1-434a-8584-1bbeb6c22c54">Model:</label><br><input type="hidden" name="model" value="richtextpage" class=" charfield" id="model-0ea73316-5ef1-434a-8584-1bbeb6c22c54">
-        
-</p>
-    
-<p style="display:none;">
-<label for="id-0ea73316-5ef1-434a-8584-1bbeb6c22c54">Id:</label><br><input type="hidden" name="id" value="3" class=" charfield" id="id-0ea73316-5ef1-434a-8584-1bbeb6c22c54">
-        
-</p>
-    
-<p style="display:none;">
-    <label for="fields-0ea73316-5ef1-434a-8584-1bbeb6c22c54">Fields:</label><br><input type="hidden" name="fields" value="content" class=" charfield" id="fields-0ea73316-5ef1-434a-8584-1bbeb6c22c54">
-        
-</p>
-    
-<input type="submit" value="Save" class="btn btn-primary btn-lg">
-<input type="button" value="Cancel" class="btn btn-default btn-lg">
-</form>
 
 <div class="editable-original">
 <h1>Search for Met Office MIDAS stations</h1>
