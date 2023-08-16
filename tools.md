@@ -24,7 +24,7 @@ Tools to subset or aggregate data before downloading are available for some data
 - [Satellite Data Finder](https://geo-search.ceda.ac.uk/) (Sentinel and Landsat missions currently) 
 - [Flight Finder](https://flight-finder.ceda.ac.uk/) (airborne data) 
 - [Met Office MIDAS stations search](midas_stations) 
-- [CORRAL catalogue](archive2.ceda.ac.uk)
+- [CORRAL catalogue](https://archive2.ceda.ac.uk/corral)
 
 ## Data format checkers
 
