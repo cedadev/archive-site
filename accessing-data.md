@@ -1,12 +1,8 @@
 ---
 title: accessing-data
-layout: base_ceda
+layout: base_ceda_breadcrumbs
 permalink: about/accessing-data
 ---
-
-
-
-{% include breadcrumbs.html %}
 
 
 
