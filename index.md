@@ -18,7 +18,7 @@ list_title: Posts
 
 <div class="card-deck">
     <div class="card text-center" style="width: 18rem;">
-        <img class="card-img-top" src="{{site.baseurl}}/static/home-cropped-noaa-ujsujr3cgem-unsplash.jpg" alt="Card image cap">
+        <img class="card-img-top" src="{{site.baseurl}}\assets\images\home-cropped-noaa-ujsujr3cgem-unsplash.jpg" alt="Card image cap">
         <div class="card-body">
             <h5 class="card-title">Expertise in environmental data curation</h5>
             <p class="card-text"></p>
@@ -26,7 +26,7 @@ list_title: Posts
     </div>
 
 <div class="card text-center" style="width: 18rem;">
-        <img class="card-img-top" src="{{site.baseurl}}/static/core-trust-seal-px-300_height.jpeg" alt="Card image cap">
+        <img class="card-img-top" src="{{site.baseurl}}\assets\images\core-trust-seal-px-300_height.jpeg" alt="Card image cap">
         <div class="card-body">
             <h5 class="card-title">We are a trusted repository</h5>
             <p class="card-text"></p>
@@ -35,7 +35,7 @@ list_title: Posts
     </div>
 
 <div class="card text-center" style="width: 18rem;">
-        <img class="card-img-top" src="{{site.baseurl}}/static/uk-pxheight-334-s3a_sl_2_wst____20210804t104352_20210804t104652_20210804t125626_0179_074_379_1980_mar_o_nr_003_wst_brightness_temperature_channel_3.png" alt="Card image cap">
+        <img class="card-img-top" src="{{site.baseurl}}\assets\images\uk-pxheight-334-s3a_sl_2_wst____20210804t104352_20210804t104652_20210804t125626_0179_074_379_1980_mar_o_nr_003_wst_brightness_temperature_channel_3.png" alt="Card image cap">
         <div class="card-body">
             <h5 class="card-title">Supporting international atmospheric, climate and earth observation research</h5>
             <p class="card-text"></p>

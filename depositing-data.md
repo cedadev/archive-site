@@ -11,7 +11,7 @@ permalink: about/depositing-data/
 <div class="col-md-12">
 <div class="row">
 <div class="col-4">
-<img src="{{site.baseurl}}\static\noaa-5hzjvgpg6vo-unsplash-300x0.jpg" class="img-fluid">
+<img src="{{site.baseurl}}\assets\images\noaa-5hzjvgpg6vo-unsplash-300x0.jpg" class="img-fluid">
 </div>
 <div class="col-4">
             <p><span>Our main goal is to ensure that atmospheric and earth observation data are made available and accessible to all in order to fully realise their reuse potential.&nbsp;</span></p>
