@@ -14,7 +14,7 @@ permalink: tools/midas_stations
 <h1>Search for Met Office MIDAS stations</h1>
 <h3>Maps</h3>
 <p></p>
-<p><a href="https://archive2.ceda.ac.uk/cgi-bin/midas_stations/midas_googlemap.cgi">View stations on interactive map</a> &nbsp; &nbsp; Also available as a <a href="{{site.baseurl}}/tools/google_earth">Google Earth</a> download.</p>
+<p>MIDAS stations can be viewed on a map using a  <a href="{{site.baseurl}}/tools/google_earth">Google Earth download</a>.</p>
 <h3>Search for station name</h3>
 <p>Finds all station names contain the given string. The string is matched anywhere within the station name and is not case sensitive.</p>
 <form action="https://archive2.ceda.ac.uk/cgi-bin/midas_stations/search_by_name.cgi.py">
