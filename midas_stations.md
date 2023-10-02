@@ -239,7 +239,7 @@ Open within year range: <input maxlength="4" name="minyear" size="4" type="text"
 </form>
 <h3>Display station details</h3>
 <p>To display details for one or more stations, enter the station source ID (src_id) values in the box below. Use spaces or commas to separate multiple values.</p>
-<form action="/cgi-bin/midas_stations/station_details.cgi.py">
+<form action="https://archive2.ceda.ac.uk/cgi-bin/midas_stations/station_details.cgi.py">
 <table class="table">
 <tbody>
 <tr>
