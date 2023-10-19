@@ -6,6 +6,13 @@ layout: base_ceda
 
 list_title: Posts
 ---
+
+<div class="alert alert-danger alert-dismissable fade show" role="alert">
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+        </button>
+    <p>JASMIN power maintenance work 23 Oct - 3 Nov: CEDA & JASMIN services unavailable&nbsp;<a target="_blank" href="https://www.ceda.ac.uk/blog/reminder-advance-notice-of-jasmin-power-maintenance-autumn-2023/">Further details</a></p>
+</div>
     
 <div class="row">
     <div class="col-md-12">
