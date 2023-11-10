@@ -14,7 +14,7 @@ list_title: Posts
         <div class="jumbotron">
             <h1 class="display-4">The CEDA Archive</h1>
             <hr class="my-4">
-            <p>The CEDA Archive forms part of NERC's Environmental Data Service (EDS) and is responsible for looking after data from atmospheric and earth observation research. We host over 18 Petabytes of data from climate models, satellites, aircraft, met observations, and other sources.</p>
+            <p>The CEDA Archive forms part of [NERC's Environmental Data Service (EDS)](https://eds.ukri.org/) and is responsible for looking after data from atmospheric and earth observation research. We host over 18 Petabytes of data from climate models, satellites, aircraft, met observations, and other sources.</p>
         </div>
 
 
