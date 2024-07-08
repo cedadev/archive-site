@@ -17,7 +17,7 @@ permalink: tools/midas_stations
 <p>MIDAS stations can be viewed on a map using a  <a href="{{site.baseurl}}/tools/google_earth">Google Earth download</a>.</p>
 <h3>Search for station name</h3>
 <p>Finds all station names contain the given string. The string is matched anywhere within the station name and is not case sensitive.</p>
-<form action="https://archive2.ceda.ac.uk/cgi-bin/midas_stations/search_by_name.cgi.py">
+<form action="https://utils.ceda.ac.uk/cgi-bin/midas_stations/search_by_name.cgi.py">
 <table class="table">
 <tbody>
 <tr>
@@ -32,7 +32,7 @@ Open within year range: <input maxlength="4" name="minyear" size="4" type="text"
 </form>
 <h3>Search for stations by postcode</h3>
 <p>Finds all stations with postcodes starting with the given string. Enter up to 5 significant characters. For example, "OX", "OX11" or "OX11 5"). Most stations do not have the full postcode recorded, so adding more characters is unlikely to return any matches. See <a href="https://en.wikipedia.org/wiki/File:British_postcode_areas_map.svg">Postcode area map</a> or <a href="http://en.wikipedia.org/wiki/List_of_postal_areas_in_the_United_Kingdom">List of postal areas</a> for more information on postcodes.</p>
-<form action="https://archive2.ceda.ac.uk/cgi-bin/midas_stations/search_by_postcode.cgi.py">
+<form action="https://utils.ceda.ac.uk/cgi-bin/midas_stations/search_by_postcode.cgi.py">
 <table class="table">
 <tbody>
 <tr>
@@ -47,7 +47,7 @@ Open within year range: <input maxlength="4" name="minyear" size="4" type="text"
 </form>
 <h3>Search for stations by UK county</h3>
 <p>Select a county to display all stations with that county. Please note that the county names are the names used by the Met Office and may not reflect the current county divisions within the UK. <a href="{{site.baseurl}}/tools/traditional_counties_map">Map of traditional counties</a></p>
-<form action="https://archive2.ceda.ac.uk/cgi-bin/midas_stations/search_by_county.cgi.py">
+<form action="https://utils.ceda.ac.uk/cgi-bin/midas_stations/search_by_county.cgi.py">
 <table class="table">
 <tbody>
 <tr>
@@ -239,7 +239,7 @@ Open within year range: <input maxlength="4" name="minyear" size="4" type="text"
 </form>
 <h3>Display station details</h3>
 <p>To display details for one or more stations, enter the station source ID (src_id) values in the box below. Use spaces or commas to separate multiple values.</p>
-<form action="https://archive2.ceda.ac.uk/cgi-bin/midas_stations/station_details.cgi.py">
+<form action="https://utils.ceda.ac.uk/cgi-bin/midas_stations/station_details.cgi.py">
 <table class="table">
 <tbody>
 <tr>
