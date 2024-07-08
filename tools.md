@@ -24,12 +24,12 @@ Tools to subset or aggregate data before downloading are available for some data
 - [Satellite Data Finder](https://geo-search.ceda.ac.uk/) (Sentinel and Landsat missions currently) 
 - [Flight Finder](https://flight-finder.ceda.ac.uk/) (airborne data) 
 - [Met Office MIDAS stations search](midas_stations) 
-- [CORRAL catalogue](https://archive2.ceda.ac.uk/corral)
+- [CORRAL catalogue](https://utils.ceda.ac.uk/corral)
 
 ## Data format checkers
 
 When producing data you can use these tools to work out it's formated correctly.
 
- - [CSV checker](https://archive2.ceda.ac.uk//cgi-bin/badccsv/csvchecker)
- - [NASA-Ames checker](https://archive2.ceda.ac.uk/nachecker)
+ - [CSV checker](https://utils.ceda.ac.uk//cgi-bin/badccsv/csvchecker)
+ - [NASA-Ames checker](https://utils.ceda.ac.uk/nachecker)
 
