@@ -30,6 +30,6 @@ Tools to subset or aggregate data before downloading are available for some data
 
 When producing data you can use these tools to work out it's formated correctly.
 
- - [CSV checker](https://utils.ceda.ac.uk//cgi-bin/badccsv/csvchecker)
+ - [CSV checker](https://utils.ceda.ac.uk/cgi-bin/badccsv/csvchecker)
  - [NASA-Ames checker](https://utils.ceda.ac.uk/nachecker)
 
