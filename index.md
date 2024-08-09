@@ -8,17 +8,11 @@ list_title: Posts
 ---
 
 <div class="row" style="background-image: url({{site.baseurl}}/static/S2A_MSIL2A_20170102T111442_N0204_R137_T30UXC_20170102T111441_RGB.bmp); background-size: 100%;">
-    <div class="col-md-12" >
 
-    &nbsp;
-    
-
-
+<div class="col">
 <div class="card-deck">
 
-<div class="card">
-
-
+<div class="card m-2">
 <div class="card-header">
     <h4 class="card-title">About Us</h4>
 </div>    
@@ -32,27 +26,16 @@ list_title: Posts
 <a href="https://www.coretrustseal.org/wp-content/uploads/2021/06/20210629-CEDA_CTS_Certification_2020-2022.pdf"><img width="80" src="{{site.baseurl}}/static/core-trust-seal-px-300_height.jpeg" alt="Card image cap"></a>
 <p class="card-text"></p>
 </div>
-
-<div class="card-header">
-    <h4 class="card-title">Help</h4>
-</div> 
-<div class="card-body">
-
-
-<p class="card-text">If you need help try the <a class="btn btn-warning" style="border-radius: 2rem;" href="#" onclick="Beacon('open');">Help?</a> button</p>
-
-<p class="card-text">We will flag maintenance periods and problems with our services and the underlying JASMIN infrastructure 
-on the <a href="https://www.ceda.ac.uk/status/" class="btn btn-info">status page</a></p>
-</div>
 </div>
 
 
-<div class="card text-center" style="opacity: 0.85">
+
+<div class="card text-center m-2" style="opacity: 0.85; background: #ffffee;">
 <div class="card-header">
     <h4 class="card-title">Discover data</h4>
 </div> 
 <div class="card-body">
-    <a href="https://catalogue.ceda.ac.uk/" class="btn btn-primary" style="border-radius: 2rem;">Search the Catalogue &gt;</a>
+    <a href="https://catalogue.ceda.ac.uk/" class="btn btn-primary" style="border-radius: 2rem;">Search Catalogue</a>
 <br/>
 <br/>
 <p class="card-text">Popular starting points:</p>
@@ -67,35 +50,33 @@ on the <a href="https://www.ceda.ac.uk/status/" class="btn btn-info">status page
  <a class="btn btn-info mb-1" href="https://catalogue.ceda.ac.uk/uuid/f46cfa4784fb454e105f336981f1a82b">Met Office Weather Model</a>
  <a class="btn btn-info mb-1" href="https://catalogue.ceda.ac.uk/uuid/07d2ebf9e4fb15ab35211208ddd2205a">Flying Lab: FAAM</a>
  <a class="btn btn-info mb-1" href="https://catalogue.ceda.ac.uk/uuid/7896ea1117dc4fa9bb95485ca9b1c6be">Sentinel Satellite</a>
-
-
 </div>
 </div>
 
 
-<div class="card" style="opacity: 0.85">
+
+
+<div class="card text-center m-2" style="opacity: 0.85; background: #ffeeff;">
+<div class="card-header">
+    <h4 class="card-title">Deposit Data</h4>
+</div> 
 <div class="card-body">
-
-    
-<h4 class="card-title">Deposit Data</h4>
-<p>The CEDA Archive forms part of NERC's Environmental Data Service (EDS) and is responsible for looking after data from atmospheric and earth observation research. We host over 18 Petabytes of data from climate models, satellites, aircraft, met observations, and other sources. </p>
-<a href="https://eds.ukri.org/"><img width="150" src="{{site.baseurl}}/static/EDS_logo.png" alt="EDS website"></a>
-<a href="https://www.coretrustseal.org/wp-content/uploads/2021/06/20210629-CEDA_CTS_Certification_2020-2022.pdf"><img width="80" src="{{site.baseurl}}/static/core-trust-seal-px-300_height.jpeg" alt="Card image cap"></a>
-<p class="card-text"></p>
-
+    <a href="https://arrivals.ceda.ac.uk/ceda/" class="btn btn-primary" style="border-radius: 2rem;">Deposit your data</a>
+<br/><br/>
+<p class="card-text">
+Principly, we accept data from or supporting Natural Environment Research Council funded science. We do take data from other sources if it fits our mission
+</p>
+</div>
 </div>
 </div>
 
 
-
- 
-
-
-
-    </div>
-      &nbsp;
+ <div class="card m-3 " style="opacity: 0.85">
+<div class="card-body">
+<p class="card-text">If you need help try the <a class="btn btn-warning" style="border-radius: 2rem;" href="#" onclick="Beacon('open');">Help?</a> button. We will flag maintenance periods and problems with our services and the underlying JASMIN infrastructure 
+on the <a href="https://www.ceda.ac.uk/status/" class="btn btn-info">status page</a></p>
 </div>
-
+</div>
 
 </div>
 
