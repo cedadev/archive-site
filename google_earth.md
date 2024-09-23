@@ -12,9 +12,9 @@ To use the Google Earth map, do the following:
     
 * Download the files containing the station details. The station details are contained in two files. You can download either or both of these files, according to your search requirements:
     
-    1.  [MIDAS stations by area](https://artefacts.ceda.ac.uk/midas/midas_stations_by_area.kmz)(_last updated June 2022_), which allows you to display the stations according to the area it is located (UK county, country etc).
+    1.  [MIDAS stations by area](https://artefacts.ceda.ac.uk/midas/midas_stations_by_area.kmz)(_last updated September 2024_), which allows you to display the stations according to the area it is located (UK county, country etc).
         
-    2.  [MIDAS stations by message type](https://artefacts.ceda.ac.uk/midas/midas_stations_by_message_type.kmz)(_last updated June 2022_), which allows you to display the stations according to the[Message type](http://archive.ceda.ac.uk/midas_stations/met_domains)they produce.
+    2.  [MIDAS stations by message type](https://artefacts.ceda.ac.uk/midas/midas_stations_by_message_type.kmz)(_last updated September 2024_), which allows you to display the stations according to the[Message type](http://archive.ceda.ac.uk/midas_stations/met_domains)they produce.
     
 
 Depending upon your browser, these links may allow you to open the file directly into Google Earth. Alternatively you may need to save the file to your computer and then open it from Google Earth using_File->open_from the menubar.
