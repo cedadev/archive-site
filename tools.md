@@ -27,6 +27,8 @@ Tools to subset or aggregate data before downloading are available for some data
 - [Flight Finder](https://flight-finder.ceda.ac.uk/) (airborne data) 
 - [Met Office MIDAS stations search](midas_stations) 
 - [CORRAL catalogue](https://utils.ceda.ac.uk/corral)
+- [ESA CCI Open data portal](https://climate.esa.int/en/data/#/dashboard) 
+- [CCI OpenSearch](https://archive.opensearch.ceda.ac.uk/opensearch/description.xml) (Standarch OpenSearch XML interface to CCI data)
 
 ## Data format checkers
 
