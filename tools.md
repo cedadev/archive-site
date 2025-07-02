@@ -13,6 +13,7 @@ permalink: /tools/
 
 - **[CEDA Catalogue](https://catalogue.ceda.ac.uk/)** - Browsing information about the datasets in the archive. 
 - [CSW](https://csw.ceda.ac.uk/geonetwork/srv/eng/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities) Programatically interrogating the CEDA Catalogue using **[Catalogue Service for the Web](http://www.opengeospatial.org/standards/cat)** - service API. You can also use this service to harvest the metadata using the [OAI-PMH](https://csw.ceda.ac.uk/geonetwork/srv/eng/oaipmh?verb=ListRecords&metadataPrefix=oai_dc) protocol.
+- [STAC](https://stac.ceda.ac.uk) - SpatioTemporal Asset Catalogs provide a standard way to present metadata along side direct access links. This is avaliable for some of our larger datasets.  
 
 
 ## Specific data set services
