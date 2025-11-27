@@ -5,5 +5,5 @@ title: BADC CSV Generator
 ---
 <div id="app"></div>
 
-<link rel="stylesheet" href="/static/badc_csv/badc-csv-generator.css" />
+<link rel="stylesheet" href="/static/badc-csv/badc-csv-generator.css" />
 <script src="/static/badc-csv/badc-csv-generator.js"></script>

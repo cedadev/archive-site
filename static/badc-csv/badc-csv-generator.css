@@ -8,6 +8,10 @@ h1, h2 {
   color: #005a9c;
 }
 
+h2 {
+  margin-top: 20px;
+}
+
 label {
   font-weight: bold;
 }
