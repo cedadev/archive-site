@@ -232,7 +232,8 @@ function downloadCSV(content, filename = 'badc-header.csv') {
 
 // Update example text
 function updateExample(select) {
-  const valueField = select.parentElement.querySelector('textarea');
+  const entry = select.closest('.metadata-entry'); // find the parent metadata block
+  const valueField = entry.querySelector('textarea'); // get the textarea inside it
   const exampleMap = {
     'coordinate_variable': 'Flag for coordinate variables, optionally a plotting axis suggestion and the name of the coord ref system, e.g. x',
     'comment': 'Useful information about dataset, e.g. Data is Sahel mean (lon: 20°W-30°E, lat: 10°N-20°N)',
