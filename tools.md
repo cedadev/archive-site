@@ -30,10 +30,11 @@ Tools to subset or aggregate data before downloading are available for some data
 - [ESA CCI Open data portal](https://climate.esa.int/en/data/#/dashboard) 
 - [CCI OpenSearch](https://archive.opensearch.ceda.ac.uk/opensearch/description.xml) (Standarch OpenSearch XML interface to CCI data)
 
-## Data format checkers
+## Data format tools
 
 When producing data you can use these tools to work out it's formated correctly.
 
- - [CSV checker](https://utils.ceda.ac.uk/cgi-bin/badccsv/csvchecker)
+ - [BADC CSV Generator](/tools/badc_csv_generator)
+ - [BADC CSV checker](https://utils.ceda.ac.uk/cgi-bin/badccsv/csvchecker)
  - [NASA-Ames checker](https://utils.ceda.ac.uk/nachecker)
 
